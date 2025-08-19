@@ -5,3 +5,12 @@ A Prospectus for a Bitcoin-, Ethereum-, USDC-, Dogecoin-, Bitcoin Cash-, USDT-, 
 Source Document for PDF (prospectus.satoshillc.pw):
 
 https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/edit?usp=drivesdk
+
+
+Prospectus cont'd (see "BRVC Prospectus" file above):
+
+# Week of 18 - 24 August 2025
+
+19 August
+
+- NCAA web3 Athlete Profile(s)
