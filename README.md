@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 18 - 24 August 2025
 
+21 August
+
+- Contact K's PoC for bio
+
 20 August
 
 - Swedish company, H100, acquires 102 BTC
