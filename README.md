@@ -13,9 +13,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 23 August
 
+- btc. eSports group/club moniker
+—— i.e., btc.sm1rn0ff
+——— Registered 23 August 2025, Nvidia GeForce
+
 - Inaugural Olympic eSports Games (2027)
 
-— Possible sponsorship (?)
+— Possible partnership (?)
 
 https://www.olympics.com/ioc/news/inaugural-olympic-esports-games-to-be-held-in-riyadh-in-2027-road-to-the-games-to-start-this-year
 
