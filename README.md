@@ -11,6 +11,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 18 - 24 August 2025
 
+23 August
+
+- Inaugural Olympic eSports Games (2027)
+
+—- Possible sponsorship (?)
+
+https://www.olympics.com/ioc/news/inaugural-olympic-esports-games-to-be-held-in-riyadh-in-2027-road-to-the-games-to-start-this-year
+
+https://www.olympics.com/ioc/olympic-esports-games
+
 21 August
 
 - Contact K's PoC for bio
