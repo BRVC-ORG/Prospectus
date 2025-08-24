@@ -29,7 +29,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
                 - The Petrol dollar still holds strong (respectively)
 
-                - Could foresee someone/some-bad-actor(s) attempt to exploit traditional Olympiad's medal-issuance-ceremonies as (highly-unlikely) possible metals (physical and digital) market influence
+                - Could foresee someone/some-bad-actor(s) attempt to exploit traditional Olympiad's medal-issuing, -issuance as (very-much-so-highly-unlikely) possible metals (physical and digital) market influence by not understanding things, or something like that 🤷🏼‍♀️
 
                     - see: T-Y-o-O-L 2007's <i>No Country for Old Men</i>
 
