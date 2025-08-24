@@ -2,12 +2,12 @@
 
 A Prospectus for a Bitcoin-, Ethereum-, USDC- and Dogecoin-backed research, manufacturing and development-focused ventures company, primarily using in-house chains' coin(s) for utility use-cases and quoteunquote frontier-modeling; and for transparency purposes.  With plans to be located in the American states of Washington, Wyoming (for Manufacturing) and the two 'blockchain States': Louisiana (Operations, Legal) and Texas (HQ).  Forwardlooking statements not meant as securities of any kind.
 
-Source Document for PDF (prospectus.satoshillc.pw):
+Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.satoshillc.pw):
 
 https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/edit?usp=drivesdk
 
 
-# Prospectus cont'd (see "BRVC Prospectus" file above):
+# Prospectus cont'd from Doc/PDF #afore:
 
 # Week of 18 - 24 August 2025
 
