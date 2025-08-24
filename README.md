@@ -20,6 +20,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
         - втс.∫мıяпöff (?)
         - в†c.smıяиö∫∫ (?)
         - §MᏗЯΝÖ££
+        - втс. smłяиőf∫
 
 - Inaugural Olympic eSports Games (2027)
 
