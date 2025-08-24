@@ -37,6 +37,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
                         - ./§
 
                             - ba|nn|ed<i>.video</i>
+
+                                - It's only Neural Net, in a particularly-particular sense, if one thinks in simple, basic modale-logic-terms w/ a little boardlike, syntactical-NLP viz assistance (i.e., simple | brackets for "breaking up words" in-to the modernday Commons (nonInt)
         - Amazing that the IOC is supporting an eSports at the Olympic level
     — btc.sm1rn0ff (registered 23 August 2025, Nvidia GeForce Now + Nvidia Developer)
     - Stylized as:
