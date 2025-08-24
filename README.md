@@ -46,9 +46,52 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
         - в†c.smıяиö∫∫ (?)
         - §MᏗЯΝÖ££ (?)
         - втс. smłяиőf∫ (?)
-    - Steam account using for r&d on this: sm1rn0ff
-    - Counter-Strike 2 (grandfathered Dec 2018)
-    - Pre-Steam (2002-2009)
+    - Steam account using for r&d on this, amongst other(s):
+
+    - sm1rn0ff (brockthib@gmail.com) -- all multiplayer, unless otherwise noted
+    
+        - DoD: Source (2003 - 
+
+        - C-S: Source (2003 -
+
+        - C-S: Global Offensive (Original Release - 2018)
+
+        - Quake Live (2019 -
+
+        - HL2: DM (2004 -
+
+        - CS2 (2025 - 
+
+        - Counter-Strike 2 (grandfathered Dec 2018)
+
+    - Pre-Steam, Multiplayer (2002-2011)
+
+        - MoH: AA (2002 - 2005)
+
+        - C-S: CZ (2003 - 
+
+        - Quake III Arena (2003 - 2006)
+
+        - Unreal 2003 (2002 -
+
+        - C-S 1.6 (2002 -
+
+        - HL2 (Singleplayer) (2003 -
+
+        - DoD (2005 -
+
+        - Doom 3 (2003/4 -
+
+        - Quake 4 (2005 -
+
+            - Registered for Quakecon/CPL 05 (Summer)
+
+                - 1v1 (both)
+
+                    - Didn't attend; worked on cryptography-things 'stead
+            
+            - Quake/Unreal engine(s), still to this day, are goldmines for great-learning and -ideas
+
     - Steam (2009-Current)
 
 - Inaugural Olympic eSports Games (2027)
