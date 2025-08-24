@@ -15,9 +15,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - btc. eSports group/club moniker
 
-—— i.e., btc.sm1rn0ff
-
-——— Registered 23 August 2025, Nvidia GeForce
+    — btc.sm1rn0ff (registered 23 August 2025, Nvidia GeForce Now + Nvidia Developer)
+    - Stylized as:
+        - b†¢∫smırnöff (?)
+        - в†¢.smıяиö∫∫ (?)
 
 - Inaugural Olympic eSports Games (2027)
 
