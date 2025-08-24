@@ -48,7 +48,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
         - втс. smłяиőf∫ (?)
     - Steam account using for r&d on this, amongst other(s):
 
-    - sm1rn0ff (brockthib@gmail.com) -- all multiplayer, unless otherwise noted
+    - sm1rn0ff (brockthib@gmail.com) (created: 7 June 2009; previous account from 2003-6, lost pw + inactivity {not including 2002 original CS1.6 receipt date, physical copy})) [all multiplayer, unless otherwise noted]
     
         - DoD: Source (2003 - 
 
