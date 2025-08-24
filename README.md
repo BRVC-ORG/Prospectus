@@ -14,15 +14,29 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 23 August
 
 - eSports 2026/7 future(s) light R&D
+    
     - Group/club guidelines, eligibility + current common practice(s)
+
         - Lightyears ahead of what CPL/Quakecon and others were/are, it seems
+
         - 2026 qualifying events (perchance even late 2025 happenings...?)
+
         - 2027 Saudia Arabia
+
             - EWC/IOC
+
             - 1st, 2nd and 3rd Trophies
+
                 - The Petrol dollar still holds strong (respectively)
+
                 - Could foresee someone/some-bad-actor(s) attempt to exploit traditional Olympiad's medal-issuance-ceremonies as (highly-unlikely) possible metals (physical and digital) market influence
+
                     - see: T-Y-o-O-L 2007's <i>No Country for Old Men</i>
+
+                    - or
+                        - ./§
+
+                            - ba|nn|ed<i>.video</i>
         - Amazing that the IOC is supporting an eSports at the Olympic level
     — btc.sm1rn0ff (registered 23 August 2025, Nvidia GeForce Now + Nvidia Developer)
     - Stylized as:
