@@ -35,6 +35,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
         - Satoshi posts <i>Bitcoin Research.</i> on 22 MAR 2006
 
+            - https://youtu.be/sa4C6stZsYE
 # Week of 18 - 24 August 2025
 
 23 August
