@@ -25,6 +25,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - KingMog85 (Crucial1) dons moniker
 
+    - https://twitch.tv/btcsm1rn0ff
+
+        - Global DJ Program
+
+    - IYI
+
+        - Fatal1ty 'retired' in 2006
+
+        - Satoshi posts <i>Bitcoin Research.</i> on 22 MAR 2006
+
 # Week of 18 - 24 August 2025
 
 23 August
