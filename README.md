@@ -9,6 +9,22 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
+# Week of 25 - 31 August 2025
+
+29 August
+
+- eSports 2026/7 future(s) light R&D continues:
+
+    - 10 Year, 5 Year, OB and Loyalty badges unlocked/displaying
+
+        - https://steamcommunity.com/id/brockthib/inventory/
+
+    - Congratulations Mongolz, EWC 2025 CS2 champions
+
+        - https://discord.com/channels/1387030890802184232/1389234281884156044/1409167560376582286
+
+    - KingMog85 (Crucial1) dons moniker
+
 # Week of 18 - 24 August 2025
 
 23 August
