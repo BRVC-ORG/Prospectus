@@ -13,6 +13,28 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 August
 
+- 30 October 2010 (RIP Mister McCarthy, \ 6 Fiction W)
+
+    - https://forums.entensity.net/member.php/23951-smirnoff171
+
+- BLS (Basic Language Survival) - an idea of sorts
+
+    - Basic Language Survival
+
+evivrus
+tsiser
+edave
+epacse
+
+
+SERE
+survive
+evade
+resist
+escape
+
+\
+
 - eSports 2026/7 future(s) light R&D continues:
 
     - 10 Year, 5 Year, OB and Loyalty badges unlocked/displaying
