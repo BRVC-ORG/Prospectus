@@ -11,7 +11,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
-- https://account.xbox.com/en-us/profile?gamertag=<USbtcsm1rn0>
+- https://www.xbox.com/en-us/play/user/USAbtcsm1rn0
+
+    - IOC/EWS/EWN Saudi Arabia 2027
+
+- https://account.xbox.com/en-us/profile?gamertag=<USAbtcsm1rn0>
 
 - https://security.googlecloudcommunity.com/members/satoshin-422396
 
