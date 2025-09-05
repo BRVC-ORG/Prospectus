@@ -11,6 +11,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
+- https://security.googlecloudcommunity.com/members/satoshin-422396
+
 - https://twitch.tv/btcsm1rn0ff
 
 - https://primal.net/p/npub1qderrgj72ygene26g6x450qqljncckyw24ldpjge94thvjqe0nwqzlsn3g
