@@ -9,6 +9,20 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
+# Week of 1 - 7 September 2025
+
+- Have begun process of obtaining a fully-verified Pinterest Business account
+
+    - https://pinterest.com/BitcoinCreator
+
+- Devpost (/satoshinakamoto)
+
+        - https://devpost.com/satoshinakamoto/
+
+        - 2 Hackathons registered
+
+        - 1 Project: DOROTHY1
+
 # Week of 25 - 31 August 2025
 
 29 August
