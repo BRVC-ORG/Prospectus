@@ -11,6 +11,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
+- https://account.xbox.com/en-us/profile?gamertag=<USbtcsm1rn0>
+
 - https://security.googlecloudcommunity.com/members/satoshin-422396
 
 - https://twitch.tv/btcsm1rn0ff
