@@ -11,6 +11,28 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
+- https://twitch.tv/btcsm1rn0ff
+
+- https://primal.net/p/npub1qderrgj72ygene26g6x450qqljncckyw24ldpjge94thvjqe0nwqzlsn3g
+
+- https://discord.com/users/.bitcoincreator
+
+- Google Cloud Firebase DOROTHY project created
+
+    - KingMog85 added as Viewer
+
+- Google Looker profile created
+
+    - https://discuss.google.dev/u/satoshi-nakamoto
+
+- Google Cloud Community profile created
+
+    - https://usergroups.security.googlecloudcommunity.com/u/m47qqy/#/about
+
+- Mastodon
+
+    - https://mastodon.social/@BitcoinCreator
+
 - Have begun process of obtaining a fully-verified Pinterest Business account
 
     - https://pinterest.com/BitcoinCreator
