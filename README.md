@@ -13,7 +13,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - втс. eSports Club/Group
 
-    - https://github.com/BRVC-ORG/BTC./main/tree
+    - https://github.com/BRVC-ORG/BTC./blob/main/
 
 - https://www.xbox.com/en-us/play/user/USAbtcsm1rn0
 
