@@ -48,6 +48,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - Have begun process of obtaining a fully-verified Pinterest Business account
 
     - https://pinterest.com/BitcoinCreator
+ 
+        - Domain claimed/verified
+
+            - satoshillc.pw
 
 - Devpost (/satoshinakamoto)
 
