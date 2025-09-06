@@ -11,6 +11,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
+- Began creating tentative Regional/National accounts for tentative/prospective IOC/EWS/EWN qualification(s)
+
 - https://www.youtube.com/watch?v=ximF06lmqPM
 
     - 24 August 2025
