@@ -17,9 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - 24 August 2025
  
-        - 4th comment made from @realsatoshinakamoto account, since creation (22 MAR 2006)
+        - 4th comment made from @realsatoshinakamoto (userID: 9yjqhSNCRG-uqBsUm2dKeg, channelID: UC9yjqhSNCRG-uqBsUm2dKeg) account, since creation (22 MAR 2006)
      
-            - 
+            - Emails associated with account:
+         
+                - satoshin@gmx.com
+                - brockthib@gmail.com
+                    - brockthib@googlemail.com
 
 - https://music.amazon.com/profiles/@bitcoincreator
 
