@@ -11,6 +11,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
+- https://www.youtube.com/watch?v=ximF06lmqPM
+
+    - 24 August 2025
+ 
+        - 4th comment made from @realsatoshinakamoto account, since creation (22 MAR 2006)
+     
+            - 
+
 - https://music.amazon.com/profiles/@bitcoincreator
 
     - Created: 25 July 2025
