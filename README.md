@@ -11,6 +11,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 1 - 7 September 2025
 
+6 September
+
+- Forked Bitcoin repo
+
+    - Uploaded for ethical, transparency purposes: https://github.com/BRVC-ORG/Bitcoin/blob/b49d3f4c08d6b341a11d56cd4a20d269973b4611/OP_RETURN%20Complementary.pdf
+
+5 September
+
 - Began creating tentative Regional/National accounts for tentative/prospective IOC/EWS/EWN qualification(s)
 
 - https://www.youtube.com/watch?v=ximF06lmqPM
