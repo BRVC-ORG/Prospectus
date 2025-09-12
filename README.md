@@ -9,6 +9,18 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
+# Week of 8 - 14
+
+- https://stackoverflowteams.com/c/usa-btc/users/1/?tab=profile
+
+- TradingUI work began in earnest earlier this week
+
+    - Symbol(s) uploading
+ 
+- Uploaded 25+ additional Apple Account and Google Account docs to Proof-of-Identity Complementary repo
+
+    - Starting around January 2009
+
 # Week of 1 - 7 September 2025
 
 6 September
