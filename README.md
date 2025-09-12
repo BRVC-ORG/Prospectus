@@ -9,7 +9,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
-# Week of 8 - 14 September
+# Week of 8 - 14 September 2025
 
 - https://stackoverflowteams.com/c/usa-btc/users/1/?tab=profile
 
