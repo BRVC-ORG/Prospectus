@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 September
 
+- Unreal Engine (Epic Games) Royalties Report submitted for 2005-2025 for Bitcoin
+
+    - Screenshot:
+
 - Verification (BIMI, etc) for each domain (+ satoshillc.pw) re Gmail needs to be done
 
     - https://support.google.com/a/answer/10911320?hl=en
