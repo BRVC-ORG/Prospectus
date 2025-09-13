@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 September
 
+- Orcid updated with websites, social links
+
+    - https://orcid.org/0009-0007-3196-0425
+
 - All new domains verified by Discord
 
 - New main domain added to Pinterest Business profile
