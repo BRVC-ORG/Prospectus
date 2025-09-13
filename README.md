@@ -221,7 +221,7 @@ escape
 
         - 2026 qualifying events (perchance even late 2025 happenings...?)
 
-        - 2027 Saudia Arabia
+        - 2027 Saudi Arabia
 
             - EWC/IOC
 
