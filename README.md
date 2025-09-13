@@ -13,6 +13,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 September
 
+- All new domains verified by Discord
+
+- New main domain added to Pinterest Business profile
+
+    - https://pinterest.com/BitcoinCreator
+
+- Business 'start date': 12 September 2025
+
+    - Began talking about: 20 June 2024 (re: "BRVC" Google Doc creation date)
+
 - Unreal Engine (Epic Games) Royalties Report submitted for 2005-2025 for Bitcoin
 
     - Screenshot:
