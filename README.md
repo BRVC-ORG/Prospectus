@@ -11,6 +11,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 8 - 14 September 2025
 
+13 September
+
+- Cash App account for light r&d updated
+
+    - https://cash.app/$BitcoinResearch
+
 12 September
 
 - Orcid updated with websites, social links
