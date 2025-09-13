@@ -13,6 +13,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 September
 
+- Unstoppable Domains domain(s) purchase (Order ID: 2252190)
+
+    - brvc-org.com
+    - brvc-org.info
+    - brvc-org.link
+
 - Bitcoin: A Peer-to-Peer Electronic Cash System; Discussion Paper § 6/SEP/2025 Alternate Late Summer 2025 Working version 1.1ü
 
     - https://github.com/BRVC-ORG/Bitcoin/releases/tag/₿
