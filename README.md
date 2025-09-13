@@ -11,6 +11,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 8 - 14 September 2025
 
+12 September
+
+- Rest In Peace David Foster Wallace (21 February 1962 - 12 September 2008)
+
+- Personal Instagram, Threads re-verified
+
+    - https://instagram.com/brockthib
+    - https://threads.com/@brockthib
+
 - https://stackoverflowteams.com/c/usa-btc/users/1/?tab=profile
 
 - TradingUI work began in earnest earlier this week
