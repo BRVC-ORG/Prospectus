@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 13 September
 
+- Updated втс. Teams page with temporary 2027 (hopeful) CS2 Group/Team webpage:
+
+    - https://stackoverflowteams.com/c/usa-btc
+
 - Cash App account for light r&d updated
 
     - https://cash.app/$BitcoinResearch
