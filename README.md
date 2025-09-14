@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 13 September
 
+- Uploaded print version of Orcid researcher profile (https://orcid.org/0009-0007-3196-0425) to satoshiofficial/Proof-of-IdentityComplementary repository, for transparency, community-info purposes
+
 - Have begun process of exporting (with all original data intact, can provide livelinks as well it seems) files from 2002-2011 from OneDrive account for further verification, PoI, et cetera
 
 - Y inplaceof X re UX, ie YX
