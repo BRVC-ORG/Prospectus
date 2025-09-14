@@ -13,7 +13,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 13 September
 
-— Y inplaceof X re UX, ie YX (?)
+- Y inplaceof X re UX, ie YX
 
 - BitTorrent-as-a-Language, operating within a web3, web4.x, web5 environment, as IPv6[.x] should be acting as, historically/classically — with true-inheritence — and with little to no hierarchical operators in the predefines
 
