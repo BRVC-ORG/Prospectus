@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 8 - 14 September 2025
 
+14 September
+
+- Square Reader shipped from warehouse
+
 13 September
 
 - Uploaded print version of Orcid researcher profile (https://orcid.org/0009-0007-3196-0425) to satoshiofficial/Proof-of-IdentityComplementary repository, for transparency, community-info purposes
