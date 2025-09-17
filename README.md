@@ -9,13 +9,19 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
-# Week of 8 - 14 September 2025
+# Week of 15 - 21 September 2025
+
+16 September
+
+- https://www.faceit.com/en/players/BTCsm1rn0ff
 
 15 September
 
 - Google email sender verification process begins for brvc-org.com, brvc-org.info, brvc-org.link, satoshillc.pw
 
     - https://support.google.com/mail/answer/13130196?hl=en&visit_id=638183584603956798-1171185755&p=bimi_verification&rd=1&sjid=8448837253635436505-NC
+
+# Week of 8 - 14 September 2025
 
 14 September
 
