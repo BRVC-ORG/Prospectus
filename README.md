@@ -11,6 +11,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 15 - 21 September 2025
 
+17 September
+
+- BTC Team
+
+    - https://www.faceit.com/en/teams/96be355f-01b3-4fef-a04e-fc04745a0b30
+
+- BTC Club
+
+    - https://www.faceit.com/en/club/f404af3c-e202-4b12-a726-18232dc266e5/parties
+
 16 September
 
 - https://www.faceit.com/en/players/BTCsm1rn0ff
