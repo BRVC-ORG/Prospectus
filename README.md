@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 17 September
 
+- https://pin.it/1fTFEi9IX
+
 - BTC Team
 
     - https://www.faceit.com/en/teams/96be355f-01b3-4fef-a04e-fc04745a0b30
