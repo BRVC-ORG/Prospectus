@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 17 September
 
+- https://signal.nfx.com/firms/bitcoin-research-ventures-company
+
 - https://pin.it/1fTFEi9IX
 
 - BTC Team
