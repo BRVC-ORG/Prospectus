@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 18 September
 
+- http://youtube.com/post/UgkxXpWBVHZbIa8S5w4TmKiiDjScFIb6YGek?si=JptOnCq1gR6L31m0
+
 - https://youtube.com/@realsatoshinakamoto/posts
 
 17 September
