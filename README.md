@@ -13,7 +13,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 18 September
 
-- http://youtube.com/post/UgkxfO0eal9a8-gwHu9JNZn6LYCILn2dT5ET?si=90Koxwh4ZGK-ouID
+- http://youtube.com/post/UgkxFFbFRPwMxictFcjTZ1neTAXGvhZ5YFrj?si=4fZUkN0PhFlMkgpd
 
 - http://youtube.com/post/UgkxXpWBVHZbIa8S5w4TmKiiDjScFIb6YGek?si=JptOnCq1gR6L31m0
 
