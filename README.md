@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 15 - 21 September 2025
 
+19 September
+
+- https://youtu.be/wiDVPf9YT5s
+
 18 September
 
 - http://youtube.com/post/UgkxFFbFRPwMxictFcjTZ1neTAXGvhZ5YFrj?si=4fZUkN0PhFlMkgpd
