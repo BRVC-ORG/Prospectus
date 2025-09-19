@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 15 - 21 September 2025
 
+18 September
+
+- https://youtube.com/@realsatoshinakamoto/posts
+
 17 September
 
 - https://signal.nfx.com/firms/bitcoin-research-ventures-company
