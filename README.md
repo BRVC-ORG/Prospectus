@@ -17,7 +17,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - 90% of all communication = 500 words
 
-- Technologies to potentially port-over into web3/5:
+- Technologies to potentially port-over into web3, web5:
 
     - Transparent Torrification (but 'darker') (?)
 
