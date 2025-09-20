@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 19 September
 
+- http://youtube.com/post/UgkxmlHSGWGhzsNlpuOWsb7TKPWyEAilBxR3?si=8qdVKALz9LgICNSu
+
 - Bitcoin-themed “playing cards” (?)
 
 - 90% of all communication = 500 words
