@@ -23,7 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
      
         - 'Forgetting the past' but 'also-remembering-it, selectively' so to speak
      
-        - Internal note: Is this something akin toward BitTorrent-as-a-Language (?)
+        - Internal note: Is this something akin toward BitTorrent-as-a-Language (?)  quoteunquote Sheriff, why'd you tell me that story?
      
         - Reverse example: late one random sleepless night some burgeoning avantgarde graphic designer shares his/her idea on social media that 'the State of Israel flag does not represent two towers with a bright light between them, when rotated clockwise 90degrees' in order to 'give it away to the 'greater good,'' hypperreality-speaking, potentially removing the inner-energy he or she usually reserves for creating something; someone then reads it and it changes his or her mindset if but only in a minute way; traditional hyperspace game/set theory continues onward —> until Selective factors (in mockery of U.S.C.) come into play, as Traditional American Values become more and more shared and transferred and transformed and converted et cetera et al
             - Metasploitation of essentially Pilgrim-era language/thinking
