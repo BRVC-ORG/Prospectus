@@ -11,6 +11,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 29 September 2025 - 5 October 2025
 
+30 September 2025
+
+- Bitcoin: A Peer-to-Peer Electronic Cash System; Discussion Paper § 6/SEP/2025 Alternate Late Summer 2025 Working Version 1.1ü
+
+    - https://github.com/BRVC-ORG/Bitcoin/releases/tag/₿
+
 29 September
 
 - Harvard University's Division of Continuing Education (Extension School) continuance of its use of wheat bushels within its logo as a form of currency for tuition is an interesting thought-provoker, historically-speaking.  So is the United Nation's wheat-/laurel-looking logo.  Why are we not to think of things from a satellite's perspective?
