@@ -13,6 +13,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 September
 
+- Bitcoin Pocket Reference (?)
+
+    - Much in the same vein as Python Pocket Reference (October 1998)
+ 
+        - https://www.oreilly.com/library/view/python-pocket-reference/1565925009/
+
 - Square Reader arrived (last week)
 
 - Verified on Truth Social, Truth+
