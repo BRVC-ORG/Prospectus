@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
+- Scenario: some NationState decides, unilaterally, to start creating new words in Latin. But just one word: Lan. And attaches Vosotros rules to it, solely to go further than other countries in banning intra-country cryptocurrency mining. Effectively inventing a word just to begin to persecute any and all connected ASICs and Nodes, using State-sanctioned language that said State would easily say it holds no ownership over. In essence: Romance linguistic(s) weaponized; libel law(s) captured and hollowed-out...or just classical escalation a-la-metasploitation
+
 - Bitcoin: A Peer-to-Peer Electronic Cash System; Discussion Paper § 6/SEP/2025 Alternate Late Summer 2025 Working Version 1.1ü
 
     - https://github.com/BRVC-ORG/Bitcoin/releases/tag/₿
