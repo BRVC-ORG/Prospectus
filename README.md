@@ -9,6 +9,17 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
+# Week of 29 September 2025 - 5 October 2025
+
+29 September
+
+- Square reader arrived (last week)
+
+- Verified on Truth Social, Truth+
+
+    - https://truthsocial.com/@realsatoshibtc
+
+
 # Week of 15 - 21 September 2025
 
 19 September
