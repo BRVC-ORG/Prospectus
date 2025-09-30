@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 September
 
+- Harvard University's Division of Continuing Education (Extension School) continuance of its use of wheat bushels within its logo as a form of currency for tuition is an interesting thought-provoker, historically-speaking.  So is the United Nation's wheat-/laurel-looking logo.  Why are we not to think of things from a satellite's perspective?
+
 - HoneyPotlatch
 
     - A scenario in which two individuals, parties, et cetera decide to use their mutual exploits to work together, instead of taking the 'traditional route' of escalation for history's sake
