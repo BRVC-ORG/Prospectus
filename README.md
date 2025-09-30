@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 September
 
+- Fact: Bitcoiners can fork AES/SHA as well
+
 - What I was reading in Late 2014 that reminds me of what's going on right now: https://www.goodreads.com/review/show/1116944619
 
     - Essentially, then-President Lincoln would simply point to the applicable part of the Constitution, during times of confusion, while working with his opponents, not against
