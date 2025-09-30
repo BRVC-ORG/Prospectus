@@ -15,7 +15,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - HoneyPotlatch
 
-    - A scenario in which two individuals, parties, et cetera decide to use their mutual exploits to work together, instead of taking the 'traditional route' of escalation
+    - A scenario in which two individuals, parties, et cetera decide to use their mutual exploits to work together, instead of taking the 'traditional route' of escalation for history's sake
+
+        - A 'liquidation of the past' in an ethical, forwardfacing way, so as to actually be forward-capable, in Baudrillardian-esque terminology
+     
+        - 'Forgetting the past' but 'also-remembering-it, selectively' so to speak
+     
+        - Internal note: Is this something akin toward BitTorrent-as-Language (?)
 
 - Think of it like this: From a purely research-perspective, imagining some bad actor as having access to all the CCTV and satellite-feed(s) ever created in all of history is a good way to start unblocking one's mind from not thinking of another way to pre-empt said bad actor(s)
 
