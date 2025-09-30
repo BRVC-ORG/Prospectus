@@ -16,6 +16,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - https://youtu.be/8qRyTDbEskM?si=aCVxbaYwDriKviu4
 
     - Nice visual antecedent to the Ringwraiths-knocking-down-door scene at The Inn at The Prancing Pony, incase someone were to get the phrase "fifty" stuck in his/her head, filmscenewise
+        - In my mind whenever I would think about this scene I kept recalling Mike Wallace saying "editorialize," which is a correct way of saying it, although in reality it was actually "edit"; but once I kind of forced myself recently to start working with Tor again, I could see how maybe perhaps it was a clue or something....Why else would I be sitting here writing about it within a cryptography-focused R&D startup's Prospectus?
     - Also a nice scene just inandof itself
     - Tobacco still is able to be considered currency
 
