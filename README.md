@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 September
 
+- Tengwar-as-intranet-Protocol (?)
+
+    - Both visually and as a thought-mechanism for virtual-architecture/SAN (?)
+
 - https://youtu.be/8qRyTDbEskM?si=aCVxbaYwDriKviu4
 
     - Nice visual antecedent to the Ringwraiths-knocking-down-door scene at The Inn at The Prancing Pony, incase someone were to get the phrase "fifty" stuck in his/her head, filmscenewise
