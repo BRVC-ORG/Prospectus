@@ -13,6 +13,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 September
 
+- Think of it like this: From a purely research-perspective, imagining some bad actor as having access to all the CCTV and satellite-feed(s) ever created in all of history is a good way to start unblocking one's mind from not thinking of another way to pre-empt said bad actor(s)
+
+    - Intra-botnetweb(s), if you will
+    - Technical-Linguistics-as-a-Path-On-the-Plain
+
 - Tengwar-as-intranet-Protocol (?)
 
     - Both visually and as a thought-mechanism for virtual-architecture/SAN (?)
