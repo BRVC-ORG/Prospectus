@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 29 September
 
+- What if it were to be found out that some country with known cyberwarfare-capabilities and with known ASIC manufacturing capabilities has had not only physical (ASICs) but SHA-/AES- rootkit(s) this entire time?  And posts the entire contents online, completely-verifiable?  Would we start to selectively de-legitimize some BTC?  Would we abandon SHA- and AES- altogether?  Would this kind/type of event finally make people focus on the actual hashing algorithms and notsomuch software-side of Bitcoin (BTC)?  Eventually we are going to have to work with, in a truly "work with" sense, the SHA- and AES- toolset.
+
 - Bitcoin Pocket Reference (?)
 
     - Much in the same vein as Python Pocket Reference (October 1998) (?)
