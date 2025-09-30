@@ -11,7 +11,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 29 September 2025 - 5 October 2025
 
-30 September 2025
+30 September
 
 - Bitcoin: A Peer-to-Peer Electronic Cash System; Discussion Paper § 6/SEP/2025 Alternate Late Summer 2025 Working Version 1.1ü
 
