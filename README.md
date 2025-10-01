@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
+- IYI: The author (Satoshi)'s admiration for the work of the The Rand Corporation continues to this day
+
 - web3 and web5 threat surveillance is still in its infancy, arguably-speaking
 
     - dCEH (decentralized Chains Ethical Hacking) is an earnest way of attempting to ethically, transparently, even democratically, thinkthrough the ways and means in which we can preempt bad actors
