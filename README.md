@@ -13,7 +13,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
-- Surveillance is reminiscent of renaissance, linguistically; yet artistically-inclined-thinking lets it run its course, The Renaissance, that is: still does. The word Reconaissance as a thinkthrough mechanism for avoiding what the U.S. Confederates attempted is nice, linguistically-speaking, if anything; but that's all it achieves here it seems: linguistical-analysis.
+- <a href="https://github.com/BRVC-ORG/arcOracle">arcOracle</a> notes: Surveillance is reminiscent of renaissance, linguistically; yet artistically-inclined-thinking lets it run its course, The Renaissance, that is: still does. The word Reconaissance as a thinkthrough mechanism for avoiding what the U.S. Confederates attempted is nice, linguistically-speaking, if anything; but that's all it achieves here it seems: linguistical-analysis.
 
     - SSID broadcasting, is that considered speech now?
 
