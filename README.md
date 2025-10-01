@@ -13,6 +13,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
+- Surveillance is reminiscent of renaissance, linguistically; yet artistically-inclined-thinking lets it run its course, The Renaissance, that is: still does. The word Reconaissance as a thinkthrough mechanism for avoiding what the U.S. Confederates attempted is nice, linguistically-speaking, if anything; but that's all it achieves here it seems: linguistical-analysis.
+
+    - SSID broadcasting, is that considered speech now?
+
+    - iOS SSID/Wi-Fi local area listing/viewing, is this now suspect?
+
+        - In a general sense, Ethical Hackers and InfoSec peoples' work still does not make sense to traditional legislators because InfoSec/Hacker(s) are always trying to sidestep this granular aspect altogether, to get to their real work -- yet neither party here would consider SSIDs part of the 'Public Domain'
+
 - Helpful visual: "Halt and Catch Fire"'s Texas Instruments employee and wife to Gordon is a great start to even beginning to know how to approach hardware-type security 'thinking': SHA- and AES- have been the one constant throughout Bitcoin (BTC)'s tenure: yet an unforeseen hashing algorithm's exploit coupled with a newfound hardware zeroday is what the good folk at Rand and other thinktanks might have been also inadvertently talking about and helping us somewhat prepare for, when talking about anything pre2025 
 
 - IYI: The author (Satoshi)'s admiration for the work of The Rand Corporation continues to this day
