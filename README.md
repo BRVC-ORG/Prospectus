@@ -13,6 +13,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
+- Possible dCEH exam question (web3 threat surveying, with web1, web2 esque bad actors acting-as-beligerents): Some rogue element decides to adopt the ubiquitous copy symbol (comprised of two rounded-edged squares) as theirs and deems it their default homepage symbol or verified checkmark en-kind for their faction's version of web3 or web5. Labels each square 'HeadQuarters,' i.e.,: HeadQuartersHeadQuarters. Subtly implying without overtly saying that classically-defined programming language schema(s)/styleguide(s) are the focus of this bad-actor-collective's exploit(s). Argues EFF and the possibility of a Digital Geneva Conventions as default responses, incessantly, on all domains they so choose or known to frequent. Internally, they want to leave in suspension the possibility of 2x the effect of the French Revolution, but in jest, mentioning "just trying to understand CSS/PHP amirite?!"; soon after they only post Good Will Hunting MIT film-stills under an asyetunknown alias on some social media website, eventually mimicking a troll farm's activities, yet organically, strategically, in order to further obfuscate and confuse.
+
+    - What tool(s) to use to document?
+
+    - If none invented yet, which to invent? Use only OTP(s) to communicate with other Red/Blue/Yellow/White team members.
+
 - Scenario: some NationState decides, unilaterally, to start creating new words in Latin. But just one word: Lan. And attaches Vosotros rules to it, solely to go further than other countries in banning intra-country cryptocurrency mining. Effectively inventing a word just to begin to persecute any and all connected ASICs and Nodes, using State-sanctioned language that said State would easily say it holds no ownership over. In essence: Romance linguistic(s) weaponized; libel law(s) captured and hollowed-out...or just classical escalation a-la-metasploitation
 
 - Bitcoin: A Peer-to-Peer Electronic Cash System; Discussion Paper § 6/SEP/2025 Alternate Late Summer 2025 Working Version 1.1ü
