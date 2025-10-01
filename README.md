@@ -13,6 +13,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
+- web3 and web5 threat surveillance is still in its infancy, arguably-speaking
+
+    - dCEH (decentralized Chains Ethical Hacking) is an earnest way of attempting to ethically, transparently, even democratically, thinkthrough the ways and means in which we can preempt bad actors
+    - If this all sounds vaguely or very academic, it is not
+    - The old saying still stands: experience and certifications always trump traditional academia, IT-wise
+
 - Possible dCEH exam question (web3 threat surveying, with web1, web2 esque bad actors acting-as-beligerents): Some rogue element decides to adopt the ubiquitous copy symbol (comprised of two rounded-edged squares) as theirs and deems it their default homepage symbol or verified checkmark en-kind for their faction's version of web3 or web5. Labels each square 'HeadQuarters,' i.e.,: HeadQuartersHeadQuarters. Subtly implying without overtly saying that classically-defined programming language schema(s)/styleguide(s) are the focus of this bad-actor-collective's exploit(s). Argues EFF and the possibility of a Digital Geneva Conventions as default responses, incessantly, on all domains they so choose or known to frequent. Internally, the leader is a long-time "Designed by Apple" hater, and they took the time to find vaguely EU-seeming IPs to spoof, wanting to leave in suspension the possibility of "2x the effect of the French Revolution," (as their rootkit's .nfo file says), whether in jest or not no one knows, also mentioning "just trying to understand CSS/PHP amirite?!" Soon after they only post "Good Will Hunting" MIT film-stills under an asyetunknown alias on some social media website, eventually mimicking a troll farm's activities, yet organically, strategically, in order to further obfuscate and confuse any agencies or InfoSec peoples
 
     - What tool(s) to use to document?
