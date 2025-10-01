@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 30 September
 
+- Helpful visual: "Halt and Catch Fire"'s Texas Instruments employee and wife to Gordon is a great start to even beginning to know how to approach hardware-type security 'thinking': SHA- and AES- have been the one constant throughout Bitcoin (BTC)'s tenure: yet an unforeseen hashing algorithm's exploit coupled with a newfound hardware zeroday is what the good folk at Rand and other thinktanks might have been also inadvertently talking about and helping us somewhat prepare for, when talking about anything pre2025 
+
 - IYI: The author (Satoshi)'s admiration for the work of The Rand Corporation continues to this day
 
 - web3 and web5 threat surveillance is still in its infancy, arguably-speaking
