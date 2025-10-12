@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 6 October - 12 October 2025
 
+12 October
+
+- It's worth mentioning that the role of BRVC and myself (Satoshi) is to keep a healthy distance very much <i>away</> from Bitcoin and the Bitcoin network. Like what's been said before, if Satoshi (myself) were to come back he'd be in line with everyone else, in terms of voting power, consensus-wise. I and BRVC do not plan at all to try and sway the direction of Bitcoin. I've already created it and given it to the world; it would be unethical to do anything but help with the research side of it, from a distance. There is very much a way to help while not influencing the overall direction of BTC.
+
 11 October
 
 - Weekly BTC live-trading or live chart-analysis on YouTube for BRVC (?)
