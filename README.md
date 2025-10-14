@@ -9,6 +9,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
+# Week of 13 October - 19 October 2025
+
+14 October
+
+- One Time Pads (OTPs) via Bitcoin (?)
+
 # Week of 6 October - 12 October 2025
 
 12 October
