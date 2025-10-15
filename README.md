@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 15 October
 
+- Help Desk Management Suite dApp (?)
+
 - Verified Truth Social profile Way Back Machine archived
 
     - https://web.archive.org/web/20251015210238/https://truthsocial.com/@realsatoshibtc
