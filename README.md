@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 15 October
 
+- Verified Truth Social profile Way Back Machine archived
+
+    - https://web.archive.org/web/20251015210238/https://truthsocial.com/@realsatoshibtc
+
 - Original (2008) and Discussion Paper (2025) white papers posted to YouTube with voiceover for white paper anniversary on 31 October (?)
 
 14 October
