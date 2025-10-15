@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 14 October
 
+- https://www.opportunitylouisiana.gov/news/south-louisiana-rail-facility-expands-to-create-new-opportunities-for-louisiana-rice-farmers
+
 - One Time Pads (OTPs) via Bitcoin (?)
 
 # Week of 6 October - 12 October 2025
