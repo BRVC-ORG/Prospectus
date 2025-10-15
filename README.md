@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 14 October
 
+- GETTR, Rumble verification (?)
+
 - https://www.opportunitylouisiana.gov/news/south-louisiana-rail-facility-expands-to-create-new-opportunities-for-louisiana-rice-farmers
 
 - One Time Pads (OTPs) via Bitcoin (?)
