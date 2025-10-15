@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 13 October - 19 October 2025
 
+15 October
+
+- Original (2008) and Discussion Paper (2025) white papers posted to YouTube with voiceover for white paper anniversary on 31 October (?)
+
 14 October
 
 - GETTR, Rumble verification (?)
