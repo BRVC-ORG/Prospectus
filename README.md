@@ -13,7 +13,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 16 October
 
-- One thing that people new to crypto or aren't familiar with cryptography find hard to grasp or understand, at least for right now: the time that it takes for cryptographers or developers to become even basically familiar with a coin or chain like Bitcoin or Ethereum: you cannot take that away from them
+- One thing that people new to crypto or aren't familiar with cryptography find hard to grasp or understand, at least for right now: the time that it takes for cryptographers or developers to become even basically familiar with a coin or chain like Bitcoin or Ethereum: you cannot take that away from them and it is not easily discernible at first; can be kind of offputting
 
 - https://buyrapp.com
     - Worth looking into, once it launches
