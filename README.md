@@ -11,6 +11,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 13 October - 19 October 2025
 
+16 October
+
+- https://buyrapp.com
+    - Worth looking into, once it launches
+
 15 October
 
 - Emailed GETTR Support about verification/Premium subscription
