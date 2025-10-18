@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 18 October
 
+- A proprietary, on-chain authenticator dApp (?)
+
 - Even though it is one of the best technologies out there, we have to make sure some legislator doesn't do something crazy like demand back-pay or -royalties for BTC using the SHA- and AES- technology
 
 - iOS apps on a proprietary, Hyperledger-like blockchain
