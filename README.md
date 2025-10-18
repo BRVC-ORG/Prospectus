@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 13 October - 19 October 2025
 
+17 October
+
+- Website hosting via Hostinger (?)
+
 16 October
 
 - One thing that people new to crypto or aren't familiar with cryptography find hard to grasp or understand, at least for right now: the time that it takes for cryptographers or developers to become even basically familiar with a coin or chain like Bitcoin or Ethereum, sometimes decades in length: you cannot take that away from them and it is not easily discernible at first; can be kind of offputting
