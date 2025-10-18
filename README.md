@@ -11,6 +11,22 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Week of 13 October - 19 October 2025
 
+18 October
+
+- Even though it is one of the best technologies out there, we have to make sure some legislator doesn't do something crazy like demand back-pay or -royalties for BTC using the SHA- and AES- technology
+
+- iOS apps on a proprietary, Hyperledger-like blockchain
+
+- iOS on blockchain
+
+- A somewhat-scary-yet-possibly-optimistic-version of a blockchain OS ran on two concurrent yet wildly different chains: macB-ETH (macOS (on blockchain)-on-Bitcoin-Ethereum; BTC LayerX for non-dApp stuff; ETH for dApps and services)
+
+- Can one write-off the degradation and "risk factor" of Mining and Node-operating in the past, accounting- and IRS-wise?
+
+- What is to become of land- and BTC-backed Agriculture loans?
+
+- We have to keep in mind that there could always be the possibility of some country's legislative body or some country or nation-state' Treasury deciding to separate their traditional finance holdings from their digital assets and then going on to create a whole new Secretarial/Chair-like position for this new wealth, along with potentially-corruptable or -grey-area-ladden policies and whatnot, especially in the beginning stages, where oversights and quoteunquote errors have historically been open to being gamed and framed as 'just trying to learn the ropes.' New Ambassador and/or IRS-like positions for this new branch of wealth would be particularly the target of bad actors or outside parties looking to wedge their way into a new extralegal or obtained-by-lawfare revenue stream, with tax writeoffs and the like
+
 17 October
 
 - Website hosting via Hostinger (?)
