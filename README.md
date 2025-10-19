@@ -13,6 +13,28 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 18 October
 
+- What's stopping a State like Louisiana from soft-seceding (in the same jovial 'veign,' if that's the right word to use, as the State of Texas' yearly tradition of filing paperwork to secede from The Union) from the other 49 States and just creating a semi-quasi-independent new Trade Center, apart from the physically-there 1WTC (One World Trade Center, Freed Tower) and others...? The arguments involving post-Katrina and -GlobalFinancialCrisis numbers would more than interest just a few of the more academic-leaning American Economists and Speculators out there...
+
+    - Gamifying the still-up-in-the-air-Monument(s)-wise status of the Missippi River as a complement to its (the State itself) status as the Energy Capital of the World, enterprising and Libertarian- and truly LaissezFaire-thinking legislators and capitalists could very well make the case for a Southeast American Faire Economy (SAFE) [or some other catchy moniker/acronym], arguing the need to quoteunquote finally pay back in spirit the kind gesture and offering from the French for Lady Liberty and to help stave-off any potential misuse of any pre-Green Back/Treasury Note law(s) on the books: citing Common Law, Civil Law as their focal/expert-opinion(s) point(s) and also the creation of something like "Non-UN International Economic Zone(s) as option(s) for any barrier(s) to trade or barter for OCONUS/NonUS States, Countries and NationStates"
+ 
+        - Something like AS:WTC or AS-WTC (American South World Trade Center), with hope(s)/argument(s) of pioneering or being first to enable web3/web5-backing for all assets and asset(s) tracking, mirroring the highly-proprietary traditionalcloudbased supply-chain architecture(s) which became so prevalent and arguably necessary post-2020; if only just in name only, being the antecedent to boards and legislatively-convened and -voted-through regulatory committees, with weirdsounding names or acronyms, as something 'other than,' a clean-seeming break from the continuation of nonconsensical- and oftheold-seeming displays of citizen-facing organizational-thinking and -embodiment types
+     
+            - Doubly-arguing possibly even further-er with an antiEnron "ethical" approach of having a quoteunquote Southern Approach to the NYSE, which is now hosted on GCP
+         
+            - + someone could very well easily then tack-on an argument for 'only mirroring' the success of Germany's VW engine manufacturing success with some kind of pro-GCP Blockchain Node Engine approach, which would only sound nice and forwardthinking-like to nonDeFi-minded individuals whom could be pursuaded that having a 'second/sister' option, if only in very loose theory only, to the nowcloudbased New York Stock Exchange is a good thing and that post2025 American energy policy is poised to do this kind of thing anyway — some would argue 'anything to rival the CCP's '01 entry into the World Trade Organization' and 'possibly invite future partnership(s) with, quote, all that untapped frozen tundra potential in Northern Russia,' or something to that accord
+
+                - One shouldn't underestimate the contra-/flip-side of what thinkers like Baudrillard said about America and its views toward production, especially in <a href="https://www.goodreads.com/book/show/198508"><i>The Singular Objects of Architecture</i></a>: "Why are there two of them [the Twin Towers]?" while ruminating on the fact that American capitalism/economics and the American people as a collective, essentially all understood inherently somehow that there just needed to be an 'unreal copy' of what was real/physical
+ 
+        - The case could also further (shoutout to <i>Finding Forrester</i> thespian extraordinair Rob Brown / "Jamal Wallace")</i> be made that National and International water equities and water commodities options, futures, market(s) and even the U.S.-based trading market (available only in California, if the author is not mistaken) are open to bad actors of all kinds and that the Mississippi River + CISA's circa-2021/2022 U.S. public/private water protection(s) guidelines and regulations are due for an economic overhaul, so to speak
+
+- dCEH certification is shaping up to be quite the incredibly-difficult exam/test it would undoubtedly have to be/become...
+
+- If Indoor Rowing is being considered for IOC/EWS 2027, then why not Ethical Hacking or PenTesting?
+
+- Hosting VAC (Valve Anti-cheat) info on-chain (?)
+
+- QR codes with on-chain-hosted graphical-info, for featuring dCEH certificate credential on one's paper resume or digital resume
+
 - A proprietary, on-chain authenticator dApp (?)
 
 - Even though it is one of the best technologies out there, we have to make sure some legislator doesn't do something crazy like demand back-pay or -royalties for BTC using the SHA- and AES- technology
