@@ -26,6 +26,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
                 - One shouldn't underestimate the contra-/flip-side of what thinkers like Baudrillard said about America and its views toward production, especially in <a href="https://www.goodreads.com/book/show/198508"><i>The Singular Objects of Architecture</i></a>: "Why are there two of them [the Twin Towers]?" while ruminating on the fact that American capitalism/economics and the American people as a collective, essentially all understood inherently somehow that there just needed to be an 'unreal copy' of what was real/physical
  
         - The case could also further (shoutout to <i>Finding Forrester</i> thespian extraordinaire Rob Brown / "Jamal Wallace")</i> be made that National and International water equities and water commodities options, futures, market(s) and even the U.S.-based trading market (available only in California, if the author is not mistaken) are open to bad actors of all kinds and that the Mississippi River + CISA's circa-2021/2022 U.S. public/private water protection(s) guidelines and regulations are due for an economic overhaul, so to speak
+     
+        - Further reading: §20 of <a href="https://github.com/satoshiofficial/BitcoinNotes/blob/main/Bitcoin%20Notes.pdf">Bitcoin Notes</a>
 
 - dCEH certification is shaping up to be quite the incredibly-difficult exam/test it would undoubtedly have to be/become...
 
