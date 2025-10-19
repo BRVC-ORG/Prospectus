@@ -15,6 +15,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 FQ4\25, FQ1\26 Lite R&D Notes
 
+Classical InfoSec/PenTesting Teams Framework and MethodologicalThinking within a Tri, Quadrilaterally-InterOperable Context
+
+Rethinking Reaction(s), Reorganizationally
+
 - dCELL (decentralized Chain(s) Ethical Legal Language) exam question 2:
 
 Theoretical Russian Federation "Economist Behaving Badly” Tabletop Exercise, Simulation
