@@ -13,6 +13,56 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 18 October
 
+FQ4\25, FQ1\26 Lite R&D Notes
+
+- dCELL (decentralized Chain(s) Ethical Legal Language) exam question 2:
+
+Theoretical Russian Federation "Economist Behaving Badly” Tabletop Exercise, Simulation
+
+FILE(S) PROVIDED
+
+Custom ISO file of a keygencracked, ThePirateBay (circa 2004) version of a torrented first offering of a leaked version of the CD-ROM (PC) of Microsoft(R) MapPoints(R) 2005
+
+O/S USING
+
+Microsoft(R) Windows Server(R) 2003 (OEM) {also torrented and also from TPB circa \4)
+
+EMAIL FROM 
+
+Email from bad actor(s):
+
+From:commonwealth2010coin@ur.block (Jay E Brown JD (A&M ’86) BEH BA)
+
+To: user@dcehtest.block (John Doe)
+
+Cc:
+
+Bcc: user@dcehtesт.block (John Doe)
+
+Title: "Thesis OraleŸ Argumint: Unsanctioned Kernel Panic sans Darleen: Or, To Dearest 2009: tel: 10 'TA, i.' 10 'Learning.' TwoTwenty 'Soviet.' ::AteamMARVELS Dolby Digital StOCKSnet-HDDVDripVANwINKLL.fabricKSoftener-RUS-Subs-Hardcoded.h //
+Modern thought experiment/use-case:
+
+
+1Mil Bitcoin gifted to Russia from Ja…
+
+ledger note: for digital ruble
+
+
+/meGA.H (US // CENT CÖM // CLAY TABULA)
+
+cc: AUS^^^^^яяяяяяяяяяяяяяяя
+
+
+—————
+
+INSTRUCTIONS
+
+Using a web3 or web5 browser on iOS using an iPhone 5c without any App Store or OS updates post-initial-setup of any kind, using only cellular data and with the Safari app's Javascript disabled (if not available as an option, jailbreak and use torrented (any available torrent indexing site available at time of exam) version of Apple's "X Coder" or if examtaker chooses s/he can query darkweb forums via SMTP/IMAP/POP3 only (examgiver's note(s): with max two nonConsumerGrade VPNs for extra points, if examtaker is on his or her second or third attempt; if during a rare fourth, mandatory custom working version of elliptic curve hashing file(s)/code must be included with and to help run either Mail app's services/functions or as a go-between for oracle(s)/web3,web5 datafetching, whether as a superminiLLM with ML assistance or as a NLP cloudbased web1,web2,web2.5 inclusive addition to overall scenario's design/architecture {can use Google BNE (any chain)}) and with the default version of Mail available after initial postUnboxing iOS setup. Can use MiFi data if XP SP3using partner is able to somehow convey info re a quoteunquote reverse telefax-to-payphone. Use this/these to find out bad actor(s) email's MTX header info, all botnetweb(s) hosting info if any and any and all router hops if any; plus all (we do mean all) network and network gear info et al ad infinitum; using only 2600-immune physical payphones and a partner with access to a verified (nonTorrented) SP3included Windows XP, using only pre2010 United States Quarter Dollars obtained from at most two (2) local convenience stores
+
+TIME GIVEN
+
+1h86m (timed with an exact make and model of <i>Crimson Tide's</i> Naval issued(?) necklacetimepiece (nonUsed, nonAmazonPrime)
+
 - decentralzed Chains Ethical Hacking (dCEH) certification exam potential question/scenario, Ambiguous/Uncertain Terrain module
 
 (175 modules in total, spanning a 4h45m examtime, with no prerequisites/eligibility-requirements {sans currentlysitting UN Ambassador(s) (clerical note on the text: the author(s) would like to convey appreciation for and have mucho respect for not only the United Nations' staff and faculty but and their accompanying Pressmembers as well, respectively -- the UN's Daily Press Briefings are a delight in and of their own, especially via YouTube)}: 
