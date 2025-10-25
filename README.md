@@ -9,6 +9,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
+# Month of November
+
+- Pronunciation Guide - 2013 <
+
 # Week of 13 October - 19 October 2025
 
 19 October
