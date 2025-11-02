@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- Fate, Time, and Language: An Essay On Free Will (2010, Columbia University Press)
+
+    - Basically: Will there or will there not be a sea battle tomorrow?
+
 - The Author would like to extend his appreciation to the leader of this year's UN General Assembly
 
 - https://support.apple.com/en-ca/103300
