@@ -9,9 +9,21 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus cont'd from Doc/PDF #afore:
 
-# Month of November
+# Month of November 2025
 
-- Pronunciation Guide - 2013 <
+2 November
+
+- The Author would like to extend his appreciation to the leader of this year's UN General Assembly
+
+- https://support.apple.com/en-ca/103300
+
+    - re Google Cloud Platform Blockchain Node Engine(s)
+ 
+        - dCEN
+
+            - decentralized Chains Ethical Networking
+         
+                - Once again,:———Paper Check(s) Exchanging Hands, AlreadySignedAlready
 
 # Week of 13 October - 19 October 2025
 
