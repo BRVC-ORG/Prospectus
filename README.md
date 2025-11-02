@@ -13,6 +13,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- https://upload.wikimedia.org/wikipedia/en/f/fa/100RSD_note_obverse.jpg
+
+    - https://poets.org/poem/book-questions-iii
+
+    - decentralizedAngularWarfare(Compatibility Mode)
+
+    - If they wouldve just not have shut the dampers, the ship would have simply coasted for at least a couple of hours.  —macQR
+
 - OpenTabs
 
     - An open-source version of Google Chrome OS, as an alternative to Blockchain OS (so as not to accidentally worry any anti-monopolistic academics out there, without precedent)
