@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- (( as new CC graphick [Creative Commons , NonForced]
+
 - https://upload.wikimedia.org/wikipedia/en/f/fa/100RSD_note_obverse.jpg
 
     - https://poets.org/poem/book-questions-iii
