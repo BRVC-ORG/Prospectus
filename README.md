@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- OpenTabs
+
+    - An open-source version of Google Chrome OS, as an alternative to Blockchain OS (so as not to accidentally worry any anti-monopolistic academics out there, without precedent)
+
 - Fate, Time, and Language: An Essay On Free Will (2010, Columbia University Press)
 
     - Basically: Will there or will there not be a sea battle tomorrow?
