@@ -11,6 +11,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of November 2025
 
+12 November
+
+- Ordered Bitcoin Marketing Kit from Square
+
+    -Order #US-564753594
+
 2 November
 
 - □
