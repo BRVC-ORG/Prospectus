@@ -17,6 +17,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - Order #US-564753594
 
+        - Order 'Sent to warehouse' as of 19:51 PST
+
 2 November
 
 - □
