@@ -11,11 +11,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of November 2025
 
-13 Novembet
+13 November
 
 - Bitcoin Marketing Kit shipped
 
-    - Delivery Date: 19 November
+    - Delivery Date: Wednesday, 19 November
 
 12 November
 
