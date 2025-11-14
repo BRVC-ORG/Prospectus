@@ -13,6 +13,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 13 November
 
+- https://www.newyorker.com/news/letter-from-the-southwest/texas-water-wars
+
 - Bitcoin Marketing Kit shipped
 
     - Delivery Date: Wednesday, 19 November
