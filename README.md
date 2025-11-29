@@ -7,7 +7,7 @@ Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.satoshill
 https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/edit?usp=drivesdk
 
 
-# Prospectus continued from aforementioned Google Docs (Portable docume):
+# Prospectus continued from aforementioned Google Doc:
 
 # Month of November 2025
 
