@@ -17,9 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - Order #US-606540794
 
+        - Order 'Sent to warehouse' as of 15:04 PST
+
 - Second Bitcoin Marketing Kit ordered
 
     - Order #US-517186332
+
+        - Order 'Sent to warehouse' as of 15:04 PST
 
 # Month of November 2025
 
