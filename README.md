@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 6 December
 
+- Square Credit Card Marketing Kit ordered
+
+    - Order #US-606540794
+
 - Second Bitcoin Marketing Kit ordered
 
     - Order #US-517186332
