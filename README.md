@@ -11,6 +11,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of December 2025
 
+8 December
+
+- Square Bitcoin Marketing Kit shipped
+
 7 December
 
 - Square Credit Card Marketing Kit shipped
