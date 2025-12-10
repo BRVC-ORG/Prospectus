@@ -11,6 +11,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of December 2025
 
+10 December
+
+- New one-off Podcast episodes
+
+    - BRVC updates
+
+    - Original white paper
+
+    - Discussion Paper
+
 8 December
 
 - Square Bitcoin Marketing Kit shipped
