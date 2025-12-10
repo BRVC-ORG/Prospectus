@@ -17,9 +17,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
     - BRVC updates
 
-    - Original white paper
+    - Original white paper (YouTube voiceover video)
 
-    - Discussion Paper
+    - Discussion Paper (YouTube voiceover video)
 
 8 December
 
