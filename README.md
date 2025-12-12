@@ -11,6 +11,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of December 2025
 
+11 December
+
+- Addition to one-off Podcast episode, Monday 15 December
+
+    - Reading of Prospectus
+
 10 December
 
 - New one-off Podcast episodes, Monday 15 December
