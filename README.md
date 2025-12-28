@@ -13,6 +13,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 27 December
 
+- "How To Obfuscate Info While Creating A Cryptocurrency Using A Pseudonym"
+
+    - Narrative essay highlighting best practices for remaining completely anonymous while employing both OPSEC and cyber hygiene
+
 - State of Georgia connection to US Treasury creation
 
     - "In an article published in the New York Times in 1907, Paul Warburg, a successful, German-born financier who was a partner at the investment bank Kuhn, Loeb, and Co. and widely regarded as an expert on the banking systems in the United States and Europe, wrote that the United States' financial system was "at about the same point that had been reached by Europe at the time of the Medicis, and by Asia, in all likelihood, at the time of Hammurabi" (Warburg 1907). Just months after Warburg wrote those words, the country was struck by the Panic of 1907. The panic galvanized the US Congress, particularly Republican senator Nelson Aldrich, the chair of the Senate Finance Committee. In 1908, Aldrich sponsored a bill with Republican representative Edward Vreeland that, among other things, created the National Monetary Commission to study reforms to the financial system. Aldrich quickly hired several advisers to the commission, including Henry Davison, a partner at J.P. Morgan, and A. Piatt Andrew, an economics professor at Harvard University. Over the next two years, they studied banking and financial systems extensively and visited Europe to meet with bankers and central bankers."
