@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
         - The Meeting at Jekyll Island | https://www.federalreservehistory.org/essays/jekyll-island-conference#:~:text=November%2020%2C%201910%2DNovember%2030,Gary%20Richardson%20and%20Jessie%20Romero
 
-Just months after Warburg wrote those words, the country was struck by the Panic of 1907. The panic galvanized the US Congress, particularly Republican senator Nelson Aldrich, the chair of the Senate Finance Committee. In 1908, Aldrich sponsored a bill with Republican representative Edward Vreeland that, among other things, created the National Monetary Commission to study reforms to the financial system. Aldrich quickly hired several advisers to the commission, including Henry Davison, a partner at J.P. Morgan, and A. Piatt Andrew, an economics professor at Harvard University. Over the next two years, they studied banking and financial systems extensively and visited Europe to meet with bankers and central bankers.
+
 
 - Square Bitcoin, Credit Marketing Kits delivered
 
