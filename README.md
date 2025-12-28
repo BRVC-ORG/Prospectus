@@ -13,6 +13,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 27 December
 
+- There will be a need for a better version of Proof-of-Work, perhaps a Quantum version.  Also, we cannot forget that Back's technology was released the same year that GWOT (Global War On Terror) was arguably enacted, as an idea and as a real legal tool in the toolchest at least.  That may not mean much to anyone else but I find myself thinking more and more these days that it could be expanded easily and Proof-of-Work could be nationalized (along with the NSA/NIST's SHA-2 and AES-2 hashing algorithms, which were released for public use in 2001).  Through some future emergency probably, not implying anything here, the Department of Agriculture could partner with the Executive Branch to "protect Proof-of-Work from bad actors and tampering with," being that Mr. Back's tech was originally meant to thwart email spam, and the original meaning of the word 'spam' comes from Government-provided meat rations out of Hawai'i.  There have been more-so-than odd-sounding one-offs in U.S. history, defense-wise.
+
+    - "Arrival" (1/Sep/2016)
+
+      Dr. Banks: "Before you commit to him, ask him the Sanskrit word for war and its translation."
+
+      COL Weber: "Gavisti. He says it means an argument. You?"
+
+      Dr. Banks: "A desire for more cows."
+
 - "How To Obfuscate Info While Creating A Cryptocurrency Using A Pseudonym"
 
     - Narrative essay highlighting best practices for remaining completely anonymous while employing both OPSEC and cyber hygiene
