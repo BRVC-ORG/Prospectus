@@ -11,6 +11,25 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of December 2025
 
+28 December
+
+- Oracle notes
+
+    - IMG-as-sata; fileformat(s)-as-GoBetween; win32drivers-as-TestOracles)Я)
+
+    - NIST-like //approved// set of sandbox-like GoBetween technologies or scripts or hashing algorithms   ,   for web2.75,.9xx,4.99999999999999999999999…∞,5.xx
+
+
+    - 2.75 b/c of, for instance, DHS usage in/en concurrence w/ S.L.T.P.T.P. (State Local Tribal Parish Territory Provisional)
+
+
+
+
+    - Pre Solid State Battery NIST/CISA type stuff(s)
+
+
+    - We also have to make sure that in general no kind or kinds of virtual ASIC (vASIC) or virtual ASICs (vASICs) appear in the wild and are of or for malicious purpose or purposes only; with Google Cloud Platform's Blockchain Node Engine technology and service(s) as a pretty good example of a non benevalent type of blockchain-add-on or -service that could be somehow misconstrued as a vASIC.  It might be fairly easy or visually-appealing (inthemoreso type, heterographically-speaking of course) to think of the lowercase 'v' at the far end of the left side of the acronym as different in many, many, many ways from the classical 'x' commonly seen in x86 and more recently xAI
+
 27 December
 
 - There will be a need for a better version of Proof-of-Work, perhaps a Quantum version.  Also, we cannot forget that Back's technology was released the same year that GWOT (Global War On Terror) was arguably enacted, as an idea and as a real legal tool in the toolchest at least.  That may not mean much to anyone else but I find myself thinking more and more these days that it could be expanded easily and Proof-of-Work could be nationalized (along with the NSA/NIST's SHA-2 and AES-2 hashing algorithms, which were released for public use in 2001).  Through some future emergency probably, not implying anything here, the Department of Agriculture could partner with the Executive Branch to "protect Proof-of-Work from bad actors and tampering with," being that Mr. Back's tech was originally meant to thwart email spam, and the original meaning of the word 'spam' comes from Government-provided meat rations out of Hawai'i.  There have been more-so-than odd-sounding one-offs in U.S. history, defense-wise.
