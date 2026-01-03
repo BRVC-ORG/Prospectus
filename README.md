@@ -9,6 +9,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc:
 
+# Month of January 2026
+
+2 January
+
+- BRVC Pitch Deck (In Progress)
+
+   - https://docs.google.com/presentation/d/1ua0-5U-g997qhNefNqPG4sZTLsIiC3tXpqf12ppC1Vo/
+
 # Month of December 2025
 
 28 December
