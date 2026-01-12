@@ -11,6 +11,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of January 2026
 
+11 January
+
+- Square Bitcoin Marketing Kit ordered
+
+    - Order #US-049577350
+
 2 January
 
 - BRVC Pitch Deck (In Progress)
