@@ -15,6 +15,58 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of January 2026
 
+13 January
+
+- IYI  Bitcoin (BTC) early development and "How To Obfuscate Info While Creating A Cryptocurrency Using A Pseudony" essay notes,explanatory glossary/terms/dates re 31/Oct/2008, 3/Jan/2009 and afterwards
+
+    - 1-1C (One-to-one Correspondence)" from "Everything and More: A Compact History of ∞" (October 2003, Atlas Books/W.W. Norton & Company)
+
+        - Section 1C from Founder's 1988 State of Louisiana Birth Certificate (Certificate of Live Birth) document
+
+            - Reads: 1C SECOND NAME ANGELLE
+
+                - French-to-English translation: Angel
+
+            - Official file date: 8 September 1988
+
+                - Shares same date as
+
+                    - Statue of David (דָּוִד) reveal: 8 September 1504 (+ 484 years)
+
+                        - A powerful symbol of Renaissance humanism; a departure from previous depictions of the Biblical David
+
+                        - Note: Israelites were required to enlist for military at 20 years-of-age; Michelangelo's "Statue" portrays the King of ancient Israel and Judah at around 16 or 19, by various accounts
+
+                        - But what about mentionings/references-to/artistic nods to said work of art? Would they technically be constituted as part of the quoteunquote public domain?
+
+                    - Louisiana politician Huey Long shot: 8 September 1935
+
+                    - Siege of Leningrad begins: 8 September 1941
+
+                    - Ford pardons Nixon: 8 September 1974
+
+                    - "Oprah Winfrey Show" premiers: 8 September 1986
+
+                    - RIAA begins suing individuals for sharing files on Peer-to-Peer (P2P) platforms/software
+
+            - Being on approved leave around the time of and at the genesis block's creation, what does this mean from a purely academic/tort(s) perspective?
+
+                - Autonomous/extraterritorial status of Bitcoin (BTC) and its blockchain
+
+                - Also re FBAR filing et cetera (FBAR filing is exempt if for account on or associated with "military installation"
+
+                - 1599 Geneva Bible commonly used as referent for language-modeling, et cetera, around Shakespearean times; and although the Geneva Conventions has its merits and is a solid artifact of history, America as ever the/an exception, it seems, presents itself here in this particular case as well
+
+                    - It is really quite simple and easy, once you look at the plain and simple facts of the time: 1C is 13 if going by the placement of C in the alphabet, therefore (1-3) and an easy reversal of 31, BTC's white paper pub. date + Founder's d.o.b. dayofthemonth (31/Aug); and a reversal of Aristotle's Arrow idea/thought-piece
+
+                - Given Windows XP, Server 2008 and 7 (testing version, leaks, et cetera) at the time and their inherent lack of truly-useful (in terms of cryptography and hashing et al) Hyperthreading and RAM usage, even in the later Service Packs and distros — some posit that the first blocks of Bitcoin were mined with the aid of some kind of Linux distro...; also that Russian proxy servers and maybe Tor and whatnot are hypthesized, it is worth noting that it seems that once classical cryptography and timechain (blockchain) thinking begins for most, common sense (respectfully) seems to take a back seat; the author has experienced this plenty of times before...but it all gets a little simpler if one just thinks of what was prevalent at the time, among other scholarly-/US Constitution-focused legal works: 
+
+                    - The United States Government's 2008/9 Global Financial Crisis responses and aid, and both the GWOT declaration and PATRIOT ACT
+
+                        - Even 40+ years after DARPANET's introduction, it seemed we were all still trying to just figure out new ways of communicating and expounding/expanding upon TCP/IP, x86/x64 hardware capabilities and plain-old packet switching method(s)/methodologies
+
+                        - Interesting side-thought: Does this mean that The Times, being now entombed within BTC pretty much forever, has a permanent failsafe backup plan, just in case it ever needs to slowly walk passed the graveyard of whatever Chapter-11-equivalent-is in UK/GBR? Does the US Constitution have any say so in relation to Bitcoin's timechain/blockchain, as in now that we have a Space Force, with jurisdiction that includes not only its own branch's rights/powers but also that of the US Air Force's (which Space Force/[+ arguably] Cyber Command technically helmed from?
+
 12 January
 
 - Orders #US-616421283, #US-049577350 shipped
