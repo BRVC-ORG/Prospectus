@@ -1,8 +1,14 @@
 # Prospectus for Bitcoin Research & Ventures Company (BRVC)
 
-A Prospectus for a Bitcoin-, Ethereum-, USDC- and Dogecoin-backed research, manufacturing and development-focused ventures company, primarily using in-house chains' coin(s) for utility use-cases and quoteunquote frontier-modeling; and for transparency purposes.  With plans to be located in the American states of Washington, Wyoming (for Manufacturing) and the two 'blockchain States': Louisiana (Operations, Legal) and Texas (HQ).  Forwardlooking statements not meant as securities of any kind.
+A research, manufacturing and development focused ventures company, focusing on digital assets and web5, with plans to be located in the American states of Washington (Ventures), Wyoming (Manufacturing) and the two 'blockchain States,’ Louisiana (Operations, Legal) and Texas (HQ). Forward-looking statements not meant as securities of any kind.
 
-Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.satoshillc.pw):
+The BRVC Prospectus is an exhaustive, running document that functions as both a tactical roadmap for the Bitcoin Research & Ventures Company (BRVC) and a chronological log of Founder Brock Angelle Thibodeaux’s activities.
+
+Date began: 20 June 2024
+
+Completion date: 15 January 2026
+
+Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.brvc-org.com):
 
 https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/edit?usp=drivesdk
 
