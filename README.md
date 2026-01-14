@@ -17,6 +17,17 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 13 January
 
+    - STEVE
+And why are we still giving three
+options on the clock?
+
+AVIE
+How many options do you want to
+give?
+
+STEVE
+Two. Buy it or don’t.
+
 - IYI  Bitcoin (BTC) early development and "How To Obfuscate Info While Creating A Cryptocurrency Using A Pseudonym" essay notes, elucidating glossary/terms/dates re 31/Oct/2008, 3/Jan/2009 and afterwards
 
     - 1-1C (One-to-one Correspondence)" from "Everything and More: A Compact History of ∞" (October 2003, Atlas Books/W.W. Norton & Company)
