@@ -47,7 +47,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
                     - "Oprah Winfrey Show" premiers: 8 September 1986
 
-                    - RIAA begins suing individuals for sharing files on Peer-to-Peer (P2P) platforms/software
+                    - RIAA begins suing individuals for sharing files on Peer-to-Peer (P2P) platforms/software: 8 September 2003
 
             - Being on approved leave around the time of and at the genesis block's creation, what does this mean from a purely academic/tort(s) perspective?
 
