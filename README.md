@@ -35,7 +35,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
                         - A powerful symbol of Renaissance humanism; a departure from previous depictions of the Biblical David
 
-                        - Note: Israelites were required to enlist for military at 20 years-of-age; Michelangelo's "Statue" portrays the King of ancient Israel and Judah at around 16 or 19, by various accounts
+                        - Note: based on historical/Biblical accounts, Israelites were required to join the military at 20 years-of-age; Michelangelo's "Statue" portrays the King of ancient Israel and Judah at around 16 or 19, by various accounts
 
                         - But what about mentionings/references-to/artistic nods to said work of art? Would they technically be constituted as part of the quoteunquote public domain?
 
