@@ -15,6 +15,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of January 2026
 
+21 January
+
+- Square Business Checking Account created, debit card shipped
+
 20 January
 
 - Visual Studio Code on the blockchain
