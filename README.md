@@ -27,6 +27,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 13 January
 
+    "Steve Jobs" (23 October 2015)
     STEVE: And why are we still giving three options on the clock?
     AVIE: How many options do you want to give?
     STEVE: Two. Buy it or don’t.
