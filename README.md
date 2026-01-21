@@ -15,6 +15,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of January 2026
 
+20 January
+
+- Visual Studio Code on the blockchain
+
+    - https://g.co/gemini/share/35155835f92a
+
 13 January
 
 STEVE: And why are we still giving three
