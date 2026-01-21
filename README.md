@@ -4,7 +4,7 @@ This Prospectus is an exhaustive, running document that functions as both a tact
 
 Date began: 20 June 2024
 
-Completion date: 18 January 2026
+Completion date: 25 January 2026
 
 Source Document for PDF (see "BRVC Prospectus" file above) (prospectus.brvc-org.com):
 
