@@ -17,6 +17,16 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 21 January
 
+- Unstoppable Domains Order ID: 2379895
+
+    - bitcoincreator.unstoppable
+
+    - bitcoincreator.onchain
+
+    - bitcoincreator.learn
+
+    - bitcoincreator.web3
+
 - Square Business Checking Account created, debit card shipped
 
 20 January
