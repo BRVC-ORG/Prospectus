@@ -25,7 +25,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
    - The Free Markets will correct themselves
 
-- Pentagon, 1WTC, 2WTC, 7WTC, Pennsylvania (Shanksville)
+- Never Forget, Rest In Peace to all the Americans lost at The Pentagon, 1WTC, 2WTC, 7WTC, Pennsylvania (Shanksville)
+
+- The continent of Africa, Italy, Major Ocean-based Territories, et cetera were a part of GWOT as well, some in a purely protective/what-if fashion
+
+    - William Henry Gates III (Bill Gates) can be said to have been/be a GWOT/2001-2022 veteran as well, quite easily so
+
+        - see: "Tears of the Sun" (2003)
+
+            - Technically, and legally, part of RIAA + GWOT + et al's operations: think about it
 
 21 January
 
