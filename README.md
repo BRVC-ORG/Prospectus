@@ -15,6 +15,18 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of January 2026
 
+22 January
+
+- R&D, Ethical Hacking/PenTesting notes: In the utmost of fashions and in keeping with just sticking to either R&D or Ventures, with respect — the idea (not the far-off academic version, or hypothetical) and spirit of GWOT is not over; not really
+
+- What some may have forgotten or perhaps maybe what we have just realized, perhaps again, in all this post2001 happenings: that some bad actors maybe just wanted to try and quoteunquote Show Up to Work That Day; do not put anything passed individuals with that kind of incredibly-ambiguous motivation(s)
+
+    - We/BRVC say this because, as the anniversary of one of the finest Rangers and Special Operators (to include Cryptologic Linguists) I have ever met — SFC Antonio Rodriguez KIA 8 February 2020 — working with and helping build web3, web5 and the digital asset economy, it would be unethical and against, in quite a few ways, what the Founders had in mind
+
+   - The Free Markets will correct themselves
+
+- Pentagon, 1WTC, 2WTC, 7WTC, Pennsylvania (Shanksville)
+
 21 January
 
 - Unstoppable Domains Order ID: 2379895
