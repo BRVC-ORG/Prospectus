@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 24 July
 
+- This is just an observation but, the doors in Sterling Cooper, throughout Season 1 and 2 of Mad Men, the color of the doors (a light blue/turquoise?), are beautiful
 
 - Need to make Crunchbase profile for BRVC
 
