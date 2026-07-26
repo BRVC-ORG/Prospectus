@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of July 2026
 
+26 July
+
+- Spotify Author page is live
+
+    - https://open.spotify.com/show/1FDyxbxqG8IKytgwAeHTNh
+
 24 July
 
 - Agentic DOROTHY
