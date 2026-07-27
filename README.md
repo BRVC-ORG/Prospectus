@@ -19,6 +19,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 27 July
 
+- Interesting comparison/happenstance: 6/Mar/2014 NewsWeek article & 6/Mar/2014 artwork
+    - https://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html
+        - Published at 06:05 AM EST
+    - https://1drv.ms/i/c/4839e395682cc8b1/IQCeyrxe_GrzR79E9akMdeQ7AQ9wpPJRQT96jCvhKebh-qo?e=Ja503j
+        - Taken at 19:48 PM CST by a Nokia Lumia 920 with Windows Phone OS
 - Happy belated birthday, SFC Antonio Rodriguez (26 July 1991).  You are not forgotten.
     - https://www.nsa.gov/Portals/75/documents/about/cryptologic-heritage/cryptologic-memorial/SFC_Antonio_Rodriguez_FINAL.pdf?ver=ChJTOa3ASSVPeMTtyx9geg%3D%3D
     - https://github.com/satoshiofficial/RodBeck
