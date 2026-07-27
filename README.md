@@ -19,7 +19,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 27 July
 
-
+- Happy belated birthday, SFC Antonio Rodriguez (26 July 1991).  You are not forgotten.
+    - https://www.nsa.gov/Portals/75/documents/about/cryptologic-heritage/cryptologic-memorial/SFC_Antonio_Rodriguez_FINAL.pdf?ver=ChJTOa3ASSVPeMTtyx9geg%3D%3D
+    - https://github.com/satoshiofficial/RodBeck
+    - https://github.com/BRVC-ORG/RodBeck
+    - https://www.katc.com/news/coronavirus/ul-grad-and-former-u-s-army-ranger-developing-technology-to-slow-the-spread-of-covid-19
+    - https://primal.net/e/nevent1qqswnxqyxutzqgvj68uzjrht7hjjlgzfa8q7x22tczgl95e2kmxuj8gp9ucdl
 - YouTube comment recently seen, which reminds me of the many, varied influences that would eventually go on to create what Bitcoin's Proof-of-Work and consensus mechanisms would be:
     - 'The Rangers are older than the United States.'
         - https://youtube.com/watch?v=wcQY_0hAdt4&ra=m
