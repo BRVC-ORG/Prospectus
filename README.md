@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 27 July
 
+
+- YouTube comment recently seen:
+    - 'The Rangers are older than the United States.'
 - Science Oversight Subcommittee
     - https://youtu.be/QSkCDo6zU5s?t=423
     - 15 Feb 2018
