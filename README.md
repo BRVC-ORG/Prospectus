@@ -20,8 +20,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 27 July
 
 
-- YouTube comment recently seen:
+- YouTube comment recently seen, which reminds me of the many, varied influences that would eventually go on to create what Bitcoin's Proof-of-Work and consensus mechanisms would be:
     - 'The Rangers are older than the United States.'
+        - https://youtube.com/watch?v=wcQY_0hAdt4&ra=m
+    - https://armyranger.com/us-army-ranger-history/
+    - To be 'peered out,' U. S. Army Ranger School (a leadership school, which upon graduating deems one merely 'Ranger-qualified,' which is entirely separate from modern, true United States Army Rangers/Special Operators, i.e., the 75th Ranger Regiment) terminology
+        - Getting "peered out" means failing a phase because your own squad members rank you at the bottom during confidential peer evaluations. It signifies that your peers do not trust you, find you lazy or believe you cannot handle the stress of combat leadership
 - Science Oversight Subcommittee
     - https://youtu.be/QSkCDo6zU5s?t=423
     - 15 Feb 2018
