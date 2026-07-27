@@ -21,6 +21,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - We don't have to get rid of physical servers or on-prem devices altogether: an exploration into something like root-level certificates as NFTs for agentic, self-learning, self-evolving AI/ML that works together with each major AI platform or all of them at once
     - AutoGenAI/ML (?)
+    - https://github.com/BRVC-ORG/Rootlevel-Server-Certificates-as-NFTs
 - What are we going to do with dataoceanoraclerecursionopstechnologyforhi
 ghscalingytokens.online?
 - List of angel investors potentially contacting:
