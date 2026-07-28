@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 27 July
 
+- Agentic DOROTHY r&d
+    - https://www.sciencedirect.com/science/chapter/monograph/abs/pii/B9781597491358500032
 - Interesting comparison/happenstance: 6/Mar/2014 NewsWeek article & 6/Mar/2014 artwork
     - https://www.newsweek.com/2014/03/14/face-behind-bitcoin-247957.html
         - Published at 06:05 AM EST
