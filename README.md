@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
-- Pre-2035 Green\$1-per-kilogram Hydrogen energy notes, https://github.com/satoshiofficial/BitcoinNotes/blob/551d8807ad8c6921c3ed5a673906241ea9d496ba/IMG_4409.heic
+- Pre-2035 Green $1-per-kilogram hydrogen energy notes, https://github.com/satoshiofficial/BitcoinNotes/blob/551d8807ad8c6921c3ed5a673906241ea9d496ba/IMG_4409.heic
     - 22/Mar/2023
     - Sharpie on mirror
     - Author: Brock Angelle Thibodeaux a/k/a Satoshi Nakamoto
