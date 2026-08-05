@@ -19,6 +19,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+- Pre-2035 Green\$1-per-kilogram Hydrogen energy notes, https://github.com/satoshiofficial/BitcoinNotes/blob/551d8807ad8c6921c3ed5a673906241ea9d496ba/IMG_4409.heic
+    - 22/Mar/2023
+    - Sharpie on mirror
+    - Author: Brock Angelle Thibodeaux a/k/a Satoshi Nakamoto
+    - Taken via: backcamera, iPhone 12 Pro Max
 - A real thought experiment: Jobs' daughter Eve becomes CEO of Apple
 - This was Satoshi
     - https://finance.yahoo.com/news/satoshi-era-bitcoin-wallets-move-222635048.html
