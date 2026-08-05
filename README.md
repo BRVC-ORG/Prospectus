@@ -23,7 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - https://zbmath.org/authors/morrison.david-r.1
     - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/6bfdaa2150a7de93463d372ab32430a940e1c5a3/notes.pdf
          - §2005, page 15, fourth '-' from top
-              - _brockth1b.com  Registered: October 2005  Created within Microsoft PowerPoint 2003  exported as .html  Orange background_
+              - _brockth1b.com  Registered: October 2005  Created within a torrented version of Microsoft PowerPoint 2003  (Windows) exported as .html  Orange background_
 - Vitalik is the only good thing to be produced from this magazine it seems.  The Author does not hold possession of or over the white paper, it is for all of us.  Respectfully/respectively.
     - https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody
          - 6th paragraph from top
