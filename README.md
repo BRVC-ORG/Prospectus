@@ -23,6 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - Trying to think ahead to when perhaps inverted blocks with dirac notation are forcefed exploit(s)
     - https://claude.ai/share/a9a6f696-469c-4e20-9105-f86c5d3c8c1a
 - One thing the Renaissance/High Renaissance did not bother with: pure mathematics
+    - https://scholar.google.com/citations?view_op=search_authors&hl=en&authuser=1&mauthors=label:pure_mathematics
 - Pre-2035 Green $1-per-kilogram hydrogen energy notes, https://github.com/satoshiofficial/BitcoinNotes/blob/551d8807ad8c6921c3ed5a673906241ea9d496ba/IMG_4409.heic
     - 22/Mar/2023
     - Sharpie on mirror
