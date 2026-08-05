@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+- A real thought experiment: Jobs' daughter Eve becomes CEO of Apple
 - This was Satoshi
     - https://finance.yahoo.com/news/satoshi-era-bitcoin-wallets-move-222635048.html
 - Abstracts (two (2) November 2004 artworks) to be uploaded to OneDrive with all exif info intact
