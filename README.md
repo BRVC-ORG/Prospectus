@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+- Take this concept https://en.wikipedia.org/wiki/Regimental_Reconnaissance_Company and apply Topic Modeling https://en.wikipedia.org/wiki/Topic_model to it
+    - Trying to think ahead to when perhaps inverted blocks with dirac notation are forcefed exploit(s)
+    - https://claude.ai/share/a9a6f696-469c-4e20-9105-f86c5d3c8c1a
 - One thing the Renaissance/High Renaissance did not bother with: pure mathematics
 - Pre-2035 Green $1-per-kilogram hydrogen energy notes, https://github.com/satoshiofficial/BitcoinNotes/blob/551d8807ad8c6921c3ed5a673906241ea9d496ba/IMG_4409.heic
     - 22/Mar/2023
