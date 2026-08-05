@@ -19,6 +19,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+- We are arguably right back at 2021 with regards to cyberattacks on American water; the system for checking and documenting local, state and tribal waterways needs to go back to CISA altogether for they are the expert(s) in this particular situation, bar none
+    - Let us hopefully not go back to the time where Team Viewer is used to exploit water facilities' product (Florida, 202)
+    - https://www.wired.com/story/oldsmar-florida-water-utility-hack/
+- Media Handout for DOROTHY: https://claude.ai/share/f8a19313-f779-43e1-8cc4-7ca494a7a5ca
+- Fixed a typo in the latest Discussion Paper
 - Take this concept https://en.wikipedia.org/wiki/Regimental_Reconnaissance_Company and apply Topic Modeling https://en.wikipedia.org/wiki/Topic_model to it
     - Trying to think ahead to when perhaps inverted blocks with dirac notation are forcefed exploit(s)
     - https://claude.ai/share/a9a6f696-469c-4e20-9105-f86c5d3c8c1a
