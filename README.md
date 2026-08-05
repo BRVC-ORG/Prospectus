@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+- Re-working of Deck (?)
 - Work on contacting Angel Investors continues
 
 # Month of July 2026
