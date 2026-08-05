@@ -19,6 +19,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+
+- Vitalik is the only good thing to be produced from this magazine it seems.  The Author does not hold possession of or over the white paper, it is for all of us.  Respectfully/respectively.
+    - https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody
+         - 6th paragraph from top
 - We are arguably right back at 2021 with regards to cyberattacks on American water; the system for checking and documenting local, state and tribal waterways needs to go back to CISA altogether for they are the expert(s) in this particular situation, bar none
     - Let us hopefully not go back to the time where Team Viewer is used to exploit water facilities' product (Florida, 202)
     - https://www.wired.com/story/oldsmar-florida-water-utility-hack/
