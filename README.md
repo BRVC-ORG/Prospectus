@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 4 August
 
+- dQNN
 - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/6bfdaa2150a7de93463d372ab32430a940e1c5a3/IMG_3890.jpeg
     - https://zbmath.org/authors/morrison.david-r.1
     - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/6bfdaa2150a7de93463d372ab32430a940e1c5a3/notes.pdf
