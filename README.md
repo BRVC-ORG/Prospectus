@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+9 August
+
+- In the FX television show 'The Americans' a young operative criticizes Philip and Elizabeth Jennings.  He accuses them of letting 'petty, bourgeois concerns' (or petit-bourgeois concerns) override their revolutionary duty.
+
 4 August
 
 - dQNN
