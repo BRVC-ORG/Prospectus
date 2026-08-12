@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 11 August
 
+- google scholar alert email, so as to help show current GS account access
+  - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/c7323ff9ecea25c4844f3765b2b029e3413c6234/Donald%20J%20Trump%20-%20new%20results.pdf
 - Litecoin is arguably a top 5 coin
     - https://x.com/robertfcoleman
 - https://kcls.bibliocommons.com/user_profile/2454926989
