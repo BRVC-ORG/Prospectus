@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 11 August
 
+- https://kcls.bibliocommons.com/user_profile/2454926989
+- https://www.reddit.com/r/AskReddit/comments/1rooymf/comment/o9kgg75/
+    - This was Satoshi
 - https://www.goodreads.com/book/show/8317976-fate-time-and-language
     - summary: 'Will there or will there not be a sea battle tomorrow'
 - BCH Genesis wallet tied to BRVC, here is the url:
