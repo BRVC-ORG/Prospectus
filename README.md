@@ -20,6 +20,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 August
 
+- 27/Jan/2020 'Dialogflow Tutorial: Improving Discourse Markers' ]unpublished((
+    - https://docs.google.com/document/d/1BYMzW4Xyfw-jveBq8HvstWrJDmvollWnbBn9LOQ43ac
+    - shared for transparency purposes
 - https://ud.me/support.unstoppable.x
 - https://x.com/i/grok/share/599ce62bde4941f6b2c1fdd52d2afff1
 - google search console
