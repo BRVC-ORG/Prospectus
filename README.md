@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 11 August
 
+- Litecoin is arguably a top 5 coin
+    - https://x.com/robertfcoleman
 - https://kcls.bibliocommons.com/user_profile/2454926989
 - https://www.reddit.com/r/AskReddit/comments/1rooymf/comment/o9kgg75/
     - This was Satoshi
