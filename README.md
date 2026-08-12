@@ -17,6 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+
+12 August
+
+- google search console
+    - owner(s): brockthib@gmail.com, nakamoto.satoshi.b@gmail.com, smirnoff171@gmail.com, gcp.satoshinakamoto.2021@gmail.com (permissions changed to Owner from Restricted, 03:23 PST)
+        - brvc-org.link added as property
+
 11 August
 
 - google scholar alert email, so as to help show current GS account access
