@@ -20,6 +20,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 August
 
+- https://ud.me/support.unstoppable.x
 - https://x.com/i/grok/share/599ce62bde4941f6b2c1fdd52d2afff1
 - google search console
     - owner(s): brockthib@gmail.com, nakamoto.satoshi.b@gmail.com, smirnoff171@gmail.com, gcp.satoshinakamoto.2021@gmail.com (permissions changed to Owner from Restricted, 03:23 PST)
