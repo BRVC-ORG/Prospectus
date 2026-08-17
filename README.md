@@ -21,6 +21,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - 2024/2025 IRS tax returns requested, being sent via mail
 
+    - BTC Genesis wallet ownership complementary confirmation
+
 12 August
 
 - 27/Jan/2020 'Dialogflow Tutorial: Improving Discourse Markers' ]unpublished((
