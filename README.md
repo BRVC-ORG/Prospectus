@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+19 August
+
+- This is a pretty good interview
+
+    - https://rumble.com/v7eclaq-the-quartering-joins-alex-jones-for-powerful-debate-over-the-key-issues-div.html
+
 17 August
 
 - 2024/2025 IRS tax returns requested, being sent via mail
