@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 20 August
 
+- Added KCLS profile to Orcid
+    - https://kcls.bibliocommons.com/user_profile/2454926989
 - Goodreads author profile (Satoshi Nakamoto)
     - https://www.goodreads.com/author/show/51034034.Satoshi_Nakamoto
 - 2024 IRS transcript came back as not on file, awaiting 2025
