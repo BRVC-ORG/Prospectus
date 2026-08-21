@@ -17,6 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+21 August
+
+- Spoke with KingMog about official BRVC Token (outside of BTC-backed token)
+    - SOL or ETH
+
 20 August
 
 - Added KCLS profile to Orcid
