@@ -21,6 +21,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - Spoke with KingMog about official BRVC Token (outside of BTC-backed token)
     - SOL or ETH
+    - https://github.com/BRVC-ORG/OfficialBRVCToken
+        - https://github.com/BRVC-ORG/OfficialBRVCToken/blob/main/EARLY_COMMUNITY_DISTRIBUTION_PROPOSAL.md
 
 20 August
 
