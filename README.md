@@ -85,7 +85,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody
          - 6th paragraph from top
 - We are arguably right back at 2021 with regards to cyberattacks on American water; the system for checking and documenting local, state and tribal waterways needs to go back to CISA altogether for they are the expert(s) in this particular situation, bar none
-    - Let us hopefully not go back to the time where Team Viewer is used to exploit water facilities' product (Florida, 202)
+    - Let us hopefully not go back to the time where Team Viewer is used to exploit water facilities' product (Florida, 2021)
     - https://www.wired.com/story/oldsmar-florida-water-utility-hack/
 - Media Handout for DOROTHY: https://claude.ai/share/f8a19313-f779-43e1-8cc4-7ca494a7a5ca
 - Fixed a typo in the latest Discussion Paper
