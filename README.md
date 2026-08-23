@@ -32,6 +32,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - Added KCLS profile to Orcid
     - https://kcls.bibliocommons.com/user_profile/2454926989
+        - This is where The Author (Brock Angelle Thibodeaux) did most of the work for the §Discussion Paper and other Google Docs.  Other than that all that was used was an iPhone 12 Pro Max.
 - Goodreads author profile (Satoshi Nakamoto)
     - https://www.goodreads.com/author/show/51034034.Satoshi_Nakamoto
 - 2024 IRS transcript came back as not on file, awaiting 2025
