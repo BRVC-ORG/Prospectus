@@ -17,6 +17,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+22 August
+- https://dexscreener.com/solana/13fUtfvg8y8vearwQCNBez7mERBoBVNebuvdfhAkrjLd
 21 August
 
 - Burrito Research token, https://pump.fun/coin/4udYnb6EL6FiuRmQPG2jhbGA4fB4zuaJbPapeNBnpump
