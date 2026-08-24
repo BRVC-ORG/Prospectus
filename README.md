@@ -19,8 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 22 August
 - https://dexscreener.com/solana/13fUtfvg8y8vearwQCNBez7mERBoBVNebuvdfhAkrjLd
-21 August
 
+21 August
 - Burrito Research token, https://pump.fun/coin/4udYnb6EL6FiuRmQPG2jhbGA4fB4zuaJbPapeNBnpump
     - https://1drv.ms/i/c/4839e395682cc8b1/IQCxyCxoleM5IIBIbAIAAAAAAWQoW5xA9XyKxHSoViu7T5A
         - 12 July 2014
