@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+23 August
+- BRVC Discord
+    - https://discord.gg/HC5X2JXCw
+
 22 August
 - https://dexscreener.com/solana/13fUtfvg8y8vearwQCNBez7mERBoBVNebuvdfhAkrjLd
 
