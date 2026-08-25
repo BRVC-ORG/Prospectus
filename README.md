@@ -18,6 +18,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 24 August
+- Added personal tumblr from 2014-2011 to Orcid
+    - https://bitcoincreator.tumblr.com/
 - Work on 2•9•20 essay continues
     - https://github.com/satoshiofficial/2-9-20
     - 366 items to be added from iCloud
