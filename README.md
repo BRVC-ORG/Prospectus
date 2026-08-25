@@ -18,6 +18,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 23 August
+- Need to update Rumble channel to Premium
 - BRVC Discord
     - https://discord.gg/HC5X2JXCw
 
