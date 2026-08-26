@@ -18,7 +18,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 26 August
-- Thinking about making a daily 𝕏 post with link(s) to both the daily Google Scholar alert PDF and with indvidiual links within said post
+- Thinking about making a daily 𝕏 post with link(s) to both the daily Google Scholar alert PDF (from the email(s), as I receive them) and with indvidiual links within said post
 - Uploaded 25 August 2026 Google Scholar citations email
     - https://github.com/satoshiofficial/GoogleScholarAlerts/blob/main/25%20August%202026%20-%2010%20new%20citations%20to%20your%20articles.pdf
 - Added PDF of blog from 2004
