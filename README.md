@@ -18,6 +18,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 26 August
+- Thinking about making a daily 𝕏 post with link(s) to both the daily Google Scholar alert PDF and with indvidiual links within said post
+- Uploaded 25 August 2026 Google Scholar citations email
+    - https://github.com/satoshiofficial/GoogleScholarAlerts/blob/main/25%20August%202026%20-%2010%20new%20citations%20to%20your%20articles.pdf
 - Added PDF of blog from 2004
     - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/Brock's%20Blog%20November%2011%2C%202004.png
 - Added Louisiana Secretary of State paperwork/PDF for regal.tech, llc from September 2020 to BRVC and personal RodBeck repositories
