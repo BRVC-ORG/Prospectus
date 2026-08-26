@@ -22,7 +22,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - https://github.com/satoshiofficial/Writing-Learning-In-Symbology/commit/9d9a7ca4acac3e5ca68be9221f293d1ef2b12256
     - https://github.com/satoshiofficial/Writing-Learning-In-Symbology/commit/84b4f782749afadf9f04776062d7171f0a6dcc1b
 - Added original, typewritten outline to Discussion Paper repo
-    - https://github.com/satoshiofficial/btc/blob/6f634b99cc00b7925f11d1a7f8879128fd6f307f/IMG_6985.JPEG
+    - https://github.com/satoshiofficial/btc/blob/main/IMG_6985.JPEG
 - Writing, Learning In Symbology essay
     - https://github.com/satoshiofficial/Writing-Learning-In-Symbology
 - 1 year of 𝕏 Premium gifted to official Satoshi account (https://www.x.com/realsatoshix)
