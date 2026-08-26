@@ -18,6 +18,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 26 August
+- Added PDF of blog from 2004
+    - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/Brock's%20Blog%20November%2011%2C%202004.png
 - Added Secretary of State paperwork/PDF for regal.tech, llc from September 2020 to BRVC and personal RodBeck repositories
 
 25 August
