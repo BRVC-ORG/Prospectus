@@ -18,6 +18,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 25 August
+- Writing, Learning In Symbology essay
 - 1 year of 𝕏 Premium gifted to official Satoshi account (https://www.x.com/realsatoshix)
     - Thanks Jaehnig/Sailoroffortune
     - Awaiting blue check
