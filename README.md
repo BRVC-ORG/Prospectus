@@ -18,6 +18,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 26 August
+
+- https://bookwyrm.social/author/226418/s/satoshi-nakamoto
 - https://mastodon.social/@grimalkina/115589365017015354
 > Cat Hicks @grimalkina@mastodon.social 25/Nov/2025
 
