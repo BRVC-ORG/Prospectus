@@ -17,8 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
-24 August
+25 August
+- 1 year of 𝕏 Premium gifted to official Satoshi account (https://www.x.com/realsatoshix)
+    - Thanks Jaehnig/Sailoroffortune
+- Still awaiting IRS 2023/2025 return(s); foreseeably tomorrow should arrive in mail 
+- BRVC Coin off to good start
 
+24 August
 - Original Google Doc for contacting Investors/Angel Investors
     - https://docs.google.com/document/d/e/2PACX-1vSNc5P3xqRbkzIgmx18qVqxXou9dv2rtxK3iT8V2PgmgQ-E0f3pEPHyleEe6WadHbTD9Vf40jm0TC1Z/pub
     - Created 17 November 2025
