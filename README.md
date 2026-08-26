@@ -18,7 +18,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 25 August
-
+- Added examples of iOS drafts to Symbology essay repo
+    - https://github.com/satoshiofficial/Writing-Learning-In-Symbology/commit/84b4f782749afadf9f04776062d7171f0a6dcc1b
 - Added original, typewritten outline to Discussion Paper repo
     - https://github.com/satoshiofficial/btc/blob/6f634b99cc00b7925f11d1a7f8879128fd6f307f/IMG_6985.JPEG
 - Writing, Learning In Symbology essay
