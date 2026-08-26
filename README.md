@@ -17,6 +17,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of August 2026
 
+26 August
+- Added Secretary of State paperwork/PDF for regal.tech, llc from September 2020 to BRVC and personal RodBeck repositories
+
 25 August
 - Added examples of iOS drafts to Symbology essay repo
     - https://github.com/satoshiofficial/Writing-Learning-In-Symbology/commit/9d9a7ca4acac3e5ca68be9221f293d1ef2b12256
