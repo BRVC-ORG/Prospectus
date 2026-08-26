@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 26 August
 
+- PostStructuralism, Cryptolinguistic(s) r&d note(s)
+    - 4 June 2025 17:56 PST
+    - https://www.icloud.com/notes/001KbK9bbp8z3WJOkSa7AiZIg
 - https://bookwyrm.social/author/226418/s/satoshi-nakamoto
 - https://mastodon.social/@grimalkina/115589365017015354
 > Cat Hicks @grimalkina@mastodon.social 25/Nov/2025
