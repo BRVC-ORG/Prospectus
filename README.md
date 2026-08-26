@@ -18,8 +18,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 26 August
-
-- PostStructuralism, Cryptolinguistic(s) r&d note(s)
+- PostStructuralism ]see: a good intro playlist: https://youtube.com/playlist?list=PLWp2B7872lfdwGNI-IjzAWGbjHs76-fml&si=QGGEBZA_azq-A_GN [, Cryptolinguistic(s) r&d note(s)
     - 4 June 2025 17:56 PST
     - https://www.icloud.com/notes/001KbK9bbp8z3WJOkSa7AiZIg
 - https://bookwyrm.social/author/226418/s/satoshi-nakamoto
