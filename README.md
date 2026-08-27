@@ -18,6 +18,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Month of August 2026
 
 26 August
+
+- starsandstraps {{{ •.  «    clerical note\addition to the text\file{{{
+    - alexander\s (bug juice, disney) aim screenhandle
+        - page 5 §2001, PoI doc, P-o-I repo (https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/f17ef352a7bce965ad2c8cdcdb2f425cfc6e1c90/notes.pdf), ]personal[), AIM screenname (as far as The Author can recall)
+         > - brockwtc13 (week of 9-11-2001)
+         >     - Only messaged one account: Alexander, "Bug Juice" whose screen-name was verified on Disney's website; long story; more info to be added later)
+         >     - Talked about attacks; almost-rhetorically asked, "Who is going to pay for all those computers they destroyed?"
+    - shared for transparency purpose(s)
 - PostStructuralism ]see: a good intro playlist: https://youtube.com/playlist?list=PLWp2B7872lfdwGNI-IjzAWGbjHs76-fml&si=QGGEBZA_azq-A_GN [, Cryptolinguistic(s) r&d note(s)
     - 4 June 2025 17:56 PST
     - https://www.icloud.com/notes/001KbK9bbp8z3WJOkSa7AiZIg
