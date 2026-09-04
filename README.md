@@ -24,21 +24,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - https://www.crunchbase.com/organization/audiomack
 
 26 August
-
-*starsandstraps*
-
-{{{note on the file  ,  
-BEGIN{{{
-        - page 5 §2001, PoI doc, P-o-I repo (https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/f17ef352a7bce965ad2c8cdcdb2f425cfc6e1c90/notes.pdf), alexander, AIM screenname (as far as The Author can recall)
-         > - brockwtc13 (week of 9-11-2001)
-         >     - Only messaged one account: Alexander, 'Bug Juice' (Disney channel) whose screen-name 'd been quoteunquote verified, on Disney's official website for the TV show ]Bug Juice] [' . . . yes it is really his screen name.'; long story; more info to be added later)
-         >     - Talked about 9/11; almost-rhetorically asked, 'Who is going to pay for all those computers they destroyed?'
-{{{note on the file   ,   
-END{{{
-    - shared for transparency purpose(s)
-- PostStructuralism ]see: a good intro playlist: https://youtube.com/playlist?list=PLWp2B7872lfdwGNI-IjzAWGbjHs76-fml&si=QGGEBZA_azq-A_GN [, Cryptolinguistic(s) r&d note(s)
-    - 4 June 2025 17:56 PST
-    - https://www.icloud.com/notes/001KbK9bbp8z3WJOkSa7AiZIg
+- https://www.icloud.com/notes/001KbK9bbp8z3WJOkSa7AiZIg
 - https://bookwyrm.social/author/226418/s/satoshi-nakamoto
 - https://mastodon.social/@grimalkina/115589365017015354
 > Cat Hicks @grimalkina@mastodon.social 25/Nov/2025
