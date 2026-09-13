@@ -20,7 +20,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 12 September
 
 - Filing 2026 taxes tomorrow
-    - Claiming BTC, BCH wallets
+    - Claiming BTC, BCH genesis wallets
 - Renewing BRVC URLs soon
     - 12 September 2025 purchase dates
         - brvc-org.com, .link, .info
