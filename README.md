@@ -20,6 +20,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 13 September
 
 - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/IMG_0680.jpeg
+- Starting 𝕏 posts with Google Scholar daily emails, links contained within, tomorrow, 14 September
 
 12 September
 
