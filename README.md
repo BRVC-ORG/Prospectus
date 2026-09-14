@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of September 2026
 
+13 September
+
+- https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/IMG_0680.jpeg
+
 12 September
 
 - Filing 2026 taxes tomorrow
