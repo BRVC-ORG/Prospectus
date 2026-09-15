@@ -22,6 +22,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - https://x.com/River/status/2099521259444846865
     - Bitcoin ownership distribution
 - https://share.google/aimode/bz3GfPspQEKP3nVuX
+- https://share.google/aimode/7XvlwTYOd0sEZSahH
 
 14 September
 
