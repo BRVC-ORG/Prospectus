@@ -22,6 +22,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - Sharing Gemini chat, for timestamp purposes, re claiming BTC and BCH genesis wallets
     - https://share.gemini.google/uCxkFRsrLlA5
     - Claiming rest of wallets by end of month
+    - Tax return to be submitted tomorrow, 15 September
 - 𝕏 Google Scholar post(s) to start 15 September
 
 13 September
