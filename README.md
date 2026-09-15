@@ -17,6 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of September 2026
 
+15 September
+
+- https://x.com/River/status/2099521259444846865
+    - Bitcoin ownership distribution
+
 14 September
 
 - Sharing Gemini chat, for timestamp purposes, re claiming BTC and BCH genesis wallets
