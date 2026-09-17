@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 17 September
 
+- 16 September 2026 Google Scholar email, for further verification purpose(s), to include MX Header analysis
+    - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/10%20new%20citations%20to%20your%20articles.eml
 - While waiting for Unstoppable Domains to reply to support ticket re Polygon-tokenized BRVC domain(s), BCH and BSV genesis wallet(s) ownership verification is and are on this and these UD.me profile(s)
     - https://ud.me/bitcoincreator.web3
     - https://ud.me/bitcoincreator.unstoppable
