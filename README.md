@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of September 2026
 
+17 September
+
+- While waiting for Unstoppable Domains to reply to support ticket re Polygon-tokenized BRVC domain(s), BCH and BSV genesis wallet(s) ownership verification is and are on this and these UD.me profile(s)
+    - https://ud.me/bitcoincreator.web3
+    - https://ud.me/bitcoincreator.unstoppable
+
 16 September
 
 - https://share.gemini.google/HYMek83SGLEn
