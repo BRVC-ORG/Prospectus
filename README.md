@@ -24,6 +24,15 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - While waiting for Unstoppable Domains to reply to support ticket re Polygon-tokenized BRVC domain(s), BCH and BSV genesis wallet(s) ownership verification is and are on this and these UD.me profile(s)
     - https://ud.me/bitcoincreator.web3
     - https://ud.me/bitcoincreator.unstoppable
+- Added Reddit user account to Discord profile
+    - https://www.reddit.com/user/Ok_Ear8538/
+    - https://discord.com/users/.bitcoincreator
+- https://www.reddit.com/r/AskReddit/comments/1rooymf/comment/p4czl31/
+- Adding Form 1040 from 2025 IRS tax return to 𝕏
+    - 10:40 AM PST, Today
+- Adding Form 8257 from 2025 IRS tax return to 𝕏
+    - 09:12 AM PST, Tomorrow, 18 September
+        - Rest In Peace David Foster Wallace [1962-2008]
 
 16 September
 
