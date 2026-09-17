@@ -30,6 +30,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - https://www.reddit.com/r/AskReddit/comments/1rooymf/comment/p4czl31/
 - Adding Form 1040 from 2025 IRS tax return to 𝕏
     - 10:40 AM PST, Today
+    - https://x.com/realsatoshix/status/2100647132328026226
 - Adding Form 8257 from 2025 IRS tax return to 𝕏
     - 09:12 AM PST, Tomorrow, 18 September
         - Rest In Peace David Foster Wallace [1962-2008]
