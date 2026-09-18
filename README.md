@@ -17,6 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of September 2026
 
+18 September
+
+- Start of Daily Google Scholar 𝕏 post(s)
+    - https://x.com/realsatoshix/status/2101042087454273647
+- A tool/algo to see/search-for which sound samples/effects have been used in films, TV shows
+    - i.e., that seemingly sameSounding hornhock that plays whenever a character in a vehicle passes an other, MultiAxled vehicle (18wheeler) on the road or something
+
 17 September
 
 - 16 September 2026 Google Scholar email, for further verification purpose(s), to include MX Header analysis
