@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of September 2026
 
+22 September 2026
+
+- Bitcoin (BTC) genesis wallet signing/ownership verification to happen on October 2, 1030 AM PST
+
 21 September
 
 - https://audiomack.com/brockthib/playlist/september-2026
