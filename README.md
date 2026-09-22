@@ -23,7 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - https://x.com/realsatoshix/status/2101042087454273647
 - A tool/algo to see/search-for which sound samples/effects have been used in films, TV shows
     - i.e., that seemingly sameSounding hornhock that plays whenever a character in a vehicle passes an other, MultiAxled vehicle (18wheeler) on the road or something
-- Most communication is around 500 words
+- Most written communication is around 500 words
 - Most human beings are visual learners
 
 17 September
