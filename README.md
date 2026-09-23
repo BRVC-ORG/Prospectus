@@ -26,6 +26,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 21 September
 
 - https://audiomack.com/brockthib/playlist/september-2026
+- This was Satoshi
+    - https://buy.moonpay.com/v2/transaction-tracker?transactionId=961fa243-2c93-4ada-b21c-d929db2c8e4f
 
 18 September
 
