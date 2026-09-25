@@ -30,6 +30,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - https://buy.moonpay.com/v2/transaction-tracker?transactionId=961fa243-2c93-4ada-b21c-d929db2c8e4f
 - 5 June 1998
     - www.greenspun.com/bboard/q-and-a-fetch-msg.tcl?msg_id=0002hu
+- Bitcoin Mechanic has a pleasant speaking voice
+    - https://youtu.be/-smCoKwVDA0
 
 18 September
 
