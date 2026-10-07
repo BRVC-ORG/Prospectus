@@ -19,16 +19,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 5 October 2026
 
-- Bitcoin (BTC) genesis wallet signing/ownership verification to happen on 5 October, 18:15 PST
-
+- Bitcoin (BTC) genesis wallet signing/ownership verification to happen soon
 
 
 # Month of September 2026
 
-22 September 2026
+22 September
 
-- Bitcoin (BTC) genesis wallet signing/ownership verification to happen on October 3, 10:30 AM PST
-    - 'Signed Transaction.  Draft.' YouTube playlist
+- 'Signed Transaction.  Draft.' YouTube playlist
         - https://youtube.com/playlist?list=PLao_DkGx53bc&si=k7HZBgzdi7oVX5cT
 
 21 September
