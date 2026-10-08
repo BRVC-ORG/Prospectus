@@ -20,6 +20,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 8 October
 
 - Need to renew BRVC URLs by 12 October
+- 𝕏 page up to date with Google Scholar daily white paper citation email(s)
+    - https://x.com/realsatoshix
 
 5 October
 
