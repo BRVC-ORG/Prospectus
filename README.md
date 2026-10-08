@@ -17,7 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
-5 October 2026
+8 October
+
+- Need to renew BRVC URLs by 12 October
+
+5 October
 
 - Bitcoin (BTC) genesis wallet signing/ownership verification to happen soon
 
