@@ -17,6 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
+10 October
+
+- Cleaned up 𝕏 profile
+- Posted daily Google Scholar email info on 𝕏
+
 8 October
 
 - Need to renew BRVC URLs by 12 October
