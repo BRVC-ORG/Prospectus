@@ -22,6 +22,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 - Complexcon 2026
     - Satoshi Vans shoes
         - https://www.instagram.com/reel/DeZptVfx79E/
+    - https://youtube.com/watch?v=p9YjJJykw_M&ra=m
 
 11 October
 
