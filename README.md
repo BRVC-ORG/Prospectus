@@ -23,6 +23,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
     - Satoshi Vans shoes
         - https://www.instagram.com/reel/DeZptVfx79E/
     - https://youtube.com/watch?v=p9YjJJykw_M&ra=m
+    - https://www.vans.com/en-gb/p/otw-by-vans-x-satoshi-nakamoto-era-95-shoes-VN00114ESN0&ct=ga&cd=CAEYACoUMTEyOTgyNzg1OTUzMDM3NTg1OTcyHGYyZWRjYWY1YjgzY2MyOTk6Y29tOmVuOlVTOkw&usg=AOvVaw2eF1GTQzSV6XM2vH4Ku50L
 
 11 October
 
