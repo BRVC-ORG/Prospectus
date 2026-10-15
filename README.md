@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 15 October
 
+- Meta account re-verified
+    - https://instagram.com/brockthib
+    - https://www.threads.com/@brockthib
 - One of the film/media scenes which was inspirational during the development of Bitcoin
     - In Episode 3 of Band of Brothers (16 September 2001), Sergeant Malarkey visits an English laundry shop and silently decides to pay for the laundry of his deceased comrades so they will not leave behind unpaid debt, a sequence noted by viewers for its emotional weight and the subtle, potent sound of coins clinking.
         - https://youtube.com/watch?v=WmHClYcWrNc&ra=m
