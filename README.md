@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
+15 October
+
+- https://www.linkedin.com/pulse/linkedin-top-startups-2026-10-companies-rise-seattle-linkedin-news-etl4f/
+
 12 October
 
 - Complexcon 2026
