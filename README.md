@@ -20,6 +20,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 17 October
 
 - Signing scheduled for 10:15:00 AM PST 30 October 2026
+- Prospectus saved on Way Back Machine
+    - https://web.archive.org/web/20261017233759/https://github.com/BRVC-ORG/Prospectus
 
 16 October
 
