@@ -17,6 +17,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
+17 October
+
+- Signing scheduled for 10:15:00 AM PST 30 October 2026
+
 16 October
 
 - Need to create BRVC letterhead(s), et cetera
