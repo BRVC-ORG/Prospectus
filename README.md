@@ -20,7 +20,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 19 October
 
 - Stepping out of the silo, Dr. Ashley Juavinett and Dr. Cat Hicks
-- https://open.spotify.com/episode/5exdzxBXJOnQ4vj7276eGa?si=58ZnMWTnS9qnBkEzb-HkXA
+    - https://open.spotify.com/episode/5exdzxBXJOnQ4vj7276eGa?si=58ZnMWTnS9qnBkEzb-HkXA
 
 17 October
 
