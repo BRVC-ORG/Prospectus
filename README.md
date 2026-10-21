@@ -21,7 +21,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - As a casual observation, during Season 3 of 'The Fall' when a lawyer is in a precinct and handling paperwork, while a styrofoam cup of coffee sits steaming beside him, is just a nice visualtype testament to how most JDs and MBAs have a certain kind of command over physical paperwork
     - https://www.amazon.com/gp/video/detail/B0B8MQL22C
-    - Neat fact: The Author posted this from a Starbucks
+    - Neat fact: The Author posted this Prospectus update from a Starbucks
 - What really matters in software?, Dr. Ashley Juavinett and Dr. Cat Hicks
     - https://open.spotify.com/episode/1UZl4zDOvCT8c7XtsQPLKU?si=d777bd0f8220422e
 
