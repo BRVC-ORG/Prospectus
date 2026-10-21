@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 20 October
 
+- 23 October 2026 15:00 PM PST 𝕏 Space scheduled
+    - https://x.com/realsatoshix/status/2112716391329747416
 - As a casual observation, during Season 3 of 'The Fall' when a lawyer is in a precinct and handling paperwork, while a styrofoam cup of coffee sits steaming beside him, is just a nice visualtype testament to how most JDs and MBAs have a certain kind of command over physical paperwork
     - https://www.amazon.com/gp/video/detail/B0B8MQL22C
     - Neat fact: The Author posted this Prospectus update from a Starbucks
