@@ -21,6 +21,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - Tidal profile, some light r&d with connecting Square as a merchant
     - https://tidal.com/@brockthib
+        - October 2026 playlist
+            - https://tidal.com/playlist/c09b69e1-94ea-437b-8406-8878afcf382e
     - https://support.tidal.com/hc/en-us/articles/49674211679121-Tidal-Shop
 - 23 October 2026 15:00 PM PST 𝕏 Space scheduled
     - https://x.com/realsatoshix/status/2112716391329747416
