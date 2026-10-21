@@ -17,6 +17,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
+21 October
+
+- Updated Proof of Identity Complementary repository (https://github.com/satoshiofficial/Proof-of-IdentityComplementary)
+    - Included Goodreads Author Program welcome e-mail (for https://www.goodreads.com/author/show/51034034.Satoshi_Nakamoto)
+        - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/Welcome%20to%20the%20Goodreads%20Author%20Program%202024-07-19T16_03_08-07_00.eml
+
 20 October
 
 - Tidal profile, some light r&d with connecting Square as a merchant
