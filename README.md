@@ -17,6 +17,19 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
+22 October
+
+- Uploaded original Gmail welcome e-mail from 30 August 2004
+    - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/Gmail%20is%20different.%20Here's%20what%20you%20need%20to%20know..eml
+- Uploaded Google Search Services history info from three (3) key Bitcoin historical dates
+    - 12 December 2010, Public forum sign-off
+        - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/12%20December%202010%20-%20Google%20Search%20Services%20-%20History.png
+    - 23 April 2011, Final private e-mail
+        - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/23%20April%202011%20-%20Google%20Search%20Services%20-%20History.png
+    - 4 March 2014 (three days before 7 March 2014, day of 'I am not Dorian Nakamoto' comment)
+        - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/4%20March%202014%20-%20Google%20Search%20Services%20-%20History%20-%201.png
+        - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/4%20March%202014%20-%20Google%20Search%20Services%20-%20History%20-%202.png
+
 21 October
 
 - Updated Proof of Identity Complementary repository (https://github.com/satoshiofficial/Proof-of-IdentityComplementary)
