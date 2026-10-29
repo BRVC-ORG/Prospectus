@@ -17,6 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of October 2026
 
+29 October
+
+- Transition to Post-Quantum Cryptography Standards (NIST)
+    - https://nvlpubs.nist.gov/nistpubs/ir/2026/NIST.IR.8547.pdf
+
 24 October
 
 - https://dashboard.stripe.com/receipts/payment/CAcQARoXChVhY2N0XzFISWhjREJvMkFFMDJjakMorb_z1gYyBl90rkrJvjovFpCHOOZfoFLW2kY1SCjzJRvrLX5hwcUHEZp3HoH1ywvNjiBQ03t6amVjr6cdmHg
