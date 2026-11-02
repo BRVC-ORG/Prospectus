@@ -15,6 +15,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Prospectus continued from aforementioned Google Doc/PDF:
 
+# Month of November 2026
+
+2 November
+
+- Added personal Reddit (created 28 July 2020), LiveJournal (created 30 January 2005) profile links to Orcid
+    - https://orcid.org/0009-0007-3196-0425
+
 # Month of October 2026
 
 29 October
