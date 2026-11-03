@@ -21,8 +21,10 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 - Sharing 2005 Certified Ethical Hacker (CEH) exam prep info, notes; relates directly to How to Obfuscate Before, During and After Creating a Cryptocurrency (https://github.com/satoshiofficial/ObfuscationEssay/blob/main/How_To_Obfuscate_Final.pdf)
     - Reference photo: https://photos.app.goo.gl/io2V3eSvBDrnkEhZ9 (16/Nov/2004)
+         - 'They also said 'Bambi' was the book of the century, there's no proof . . . ' —Salvatore Romano, Mad Men, S01E01
     - Has social engineering, hardware hacking info/details
         - i.e., https://web.archive.org/web/20041204045831/http://www.hlfallout.net/forums/
+            - i.e. 2, https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/IMG_5925.jpeg
     - Occurred during same time as Bitcoin coding (January 2005), white paper authoring (February 2005)
         - Proof of Identity Complementary Doc § 7, 15)
             - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/notes.pdf)
