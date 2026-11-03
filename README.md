@@ -19,7 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
-- Unsent message/reply to a thread on the Bitcoin Dev Google Groups board (11/May/2025, https://docs.google.com/document/d/1EG-2Ddl0C6QIcL3p6WehvOyZLcy7Coz1v7mosE0ozGw/)
+- Unsent message/reply to a thread on the Bitcoin Dev Google Groups board (11/May/2025, https://docs.google.com/document/d/1EG-2Ddl0C6QIcL3p6WehvOyZLcy7Coz1v7mosE0ozGw/, https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/My%20groups.pdf)
 
 > Forgive me if this seems like a stupid question but – wouldn't this, hypothetically-speaking, allow a bad actor or multiple bad actors with access to pre2014 block reward(s) to begin posting increasingly future-correlative and/or -corresponding information attached to seemingly-innocuous transactions from said wallet(s) on a future version of the Bitcoin timechain, which could then be used as an intra-chain zeroday of some sort(s), due to Mines/Nodes not knowing they've been passing along said nefarious info?  Kind of like a logicbomb but assembled by publicly adding in information over time that can’t be erased.
 
