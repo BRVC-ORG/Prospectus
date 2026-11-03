@@ -19,6 +19,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- Unsent message/reply to a thread on the Bitcoin Dev Google Groups board (11/May/2025, https://docs.google.com/document/d/1EG-2Ddl0C6QIcL3p6WehvOyZLcy7Coz1v7mosE0ozGw/)
+
+> Forgive me if this seems like a stupid question but – wouldn't this, hypothetically-speaking, allow a bad actor or multiple bad actors with access to pre2014 block reward(s) to begin posting increasingly future-correlative and/or -corresponding information attached to seemingly-innocuous transactions from said wallet(s) on a future version of the Bitcoin timechain, which could then be used as an intra-chain zeroday of some sort(s), due to Mines/Nodes not knowing they've been passing along said nefarious info?  Kind of like a logicbomb but assembled by publicly adding in information over time that can’t be erased.
+
+> Perchance, let's also say said bad actor(s) would be of NationState status and will have had also almost-directly had a hand in manufacturing most of the ASICs used in running all of this – wouldn’t that be like opening the gates to some kind of bad version of international clearing houses?  I ask because your mentioning of AWS got me thinking of how regional-based its data storage was some time ago and how it kind of resembled the early days of pre-Treasury banking, and how defacing Federally-issued banknotes with messages that seemed innocent to others could of very well been part of larger, multi-faceted attempts to bog down and distract the officials tasked with investigating and stopping counterfeiting and the like.
+
+>Thank you in advance for your time and consideration.
+
 - Sharing 2005 Certified Ethical Hacker (CEH) exam prep info, notes; relates directly to How to Obfuscate Before, During and After Creating a Cryptocurrency essay (https://github.com/satoshiofficial/ObfuscationEssay/blob/main/How_To_Obfuscate_Final.pdf)
     - Reference photo: https://photos.app.goo.gl/io2V3eSvBDrnkEhZ9 (16/Nov/2004)
          - 'They also said 'Bambi' was the book of the century, there's no proof . . . ' —Salvatore Romano, Mad Men, S01E01
