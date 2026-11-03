@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- Need to verify LinkedIn profile
 - Need to updated personal certificates on LinkedIn
     - Copy from Orcid
 - Set up Google Ads account for BRVC
