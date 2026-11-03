@@ -24,7 +24,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
          - 'They also said 'Bambi' was the book of the century, there's no proof . . . ' —Salvatore Romano, Mad Men, S01E01
     - Has social engineering, hardware hacking info/details
         - i.e., https://web.archive.org/web/20041204045831/http://www.hlfallout.net/forums/
-            - i.e. 2, https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/IMG_5925.jpeg
+        - i.e. 2, https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/IMG_5925.jpeg
+        - i.e. 3, https://share.google/aimode/U8u6GGmaCY18VpxDw
         - The Author honestly does not think local/global hacking operations such as Operation Olympic Games and the like are being taken seriously enough
     - Occurred during same time as Bitcoin coding (January 2005), white paper authoring (February 2005)
         - Proof of Identity Complementary Doc § 7, 15)
