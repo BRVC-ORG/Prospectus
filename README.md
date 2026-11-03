@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- Set up Google Ads account for BRVC
+    - Account # 783-898-2815 (brockthib@gmail.com)
+    - Created mid October 2026
 - Added personal Reddit (created 28 July 2020), LiveJournal (created 30 January 2005) profile links to Orcid
     - https://orcid.org/0009-0007-3196-0425
 
