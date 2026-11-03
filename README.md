@@ -19,6 +19,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- Sharing 2005 Certified Ethical Hacker (CEH) exam prep info, notes; relates directly to How to Obfuscate Before, During and After Creating a Cryptocurrency (https://github.com/satoshiofficial/ObfuscationEssay/blob/main/How_To_Obfuscate_Final.pdf)
+    - Has social engineering, hardware hacking info/details
+    - Occurred during same time as Bitcoin coding (January 2005), white paper authoring (February 2005)
+        - Proof of Identity Complementary Doc § 7, 15)
+            - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/notes.pdf
 - Two (2) flickr photos containing Bitcoin/satoshi references from October 2006 updated with CC0 Public Domain Dedication licenses (https://certificate.creativecommons.org/public-domain/)
     - https://www.flickr.com/photos/satoshinakamoto/278903828/
     - https://www.flickr.com/photos/satoshinakamoto/278906327/
