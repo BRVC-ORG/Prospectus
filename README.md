@@ -19,6 +19,9 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- Two (2) flickr photos containing Bitcoin/satoshi references from October 2006 updated with CC0 Public Domain Dedication licenses (https://certificate.creativecommons.org/public-domain/)
+    - https://www.flickr.com/photos/satoshinakamoto/278903828/
+    - https://www.flickr.com/photos/satoshinakamoto/278906327/
 - https://www.btcpolicy.org/articles/digital-identity-in-the-us-is-broken
 - Need to verify LinkedIn profile
 - Need to updated personal certificates on LinkedIn
