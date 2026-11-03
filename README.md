@@ -19,6 +19,7 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 2 November
 
+- https://www.btcpolicy.org/articles/digital-identity-in-the-us-is-broken
 - Need to verify LinkedIn profile
 - Need to updated personal certificates on LinkedIn
     - Copy from Orcid
