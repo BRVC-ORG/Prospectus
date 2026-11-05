@@ -17,6 +17,13 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of November 2026
 
+5 November
+
+- Updated University of Louisiana at Lafayette $50M gift/donation Google Doc (3 November)
+    - Hopefully can donate in the form of Bitcoin
+    - Would like to help/start Cryptography/Bitcoin studies/curriculum, among others
+    - Very excited about this
+
 2 November
 
 - Unsent message/reply to a thread on the Bitcoin Dev Google Groups board (11/May/2025, https://docs.google.com/document/d/1EG-2Ddl0C6QIcL3p6WehvOyZLcy7Coz1v7mosE0ozGw/, https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/My%20groups.pdf)
