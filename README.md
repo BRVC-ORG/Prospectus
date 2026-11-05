@@ -27,34 +27,12 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 >Thank you in advance for your time and consideration.
 
-- Sharing 2005 Certified Ethical Hacker (CEH) exam prep info, notes; relates directly to How to Obfuscate Before, During and After Creating a Cryptocurrency essay (https://github.com/satoshiofficial/ObfuscationEssay/blob/main/How_To_Obfuscate_Final.pdf)
-    - Reference photo: https://photos.app.goo.gl/io2V3eSvBDrnkEhZ9 (16/Nov/2004)
-         - 'They also said 'Bambi' was the book of the century, there's no proof . . . ' —Salvatore Romano, Mad Men, S01E01
-         - If one has never experimented in taking apart or hacking into audio decks (such as those sold commercially for vehicles, boats, et cetera) then s/he knows how outdated and old some of the boards and quoteunquote firmware are within them.  Can be quoteunquote reverseengineered very easily for getting out of sticky situations, so to speak.  It is the antecedent to phreaking in some instances.
-             - There is a reason a bag of Zapps chips is sitting atop a laptop which was not the property of The Author, and there is a reason why a photo was taken of a desktop environment like this in the first place (see: https://smirnoff171.livejournal.com/2005/11/14/)
-                 - Start with exif info and work your way linguistically outward
-                 - Remember 'The Chain' scene in 'The Americans' (2013)
-                 - Also do not forget how valuable front websites can be at easily disguising what is really going on under the hood, such as what could easily be seen as a complement/expansion upon October 2005's brockth1b.com: brockthibodeaux.com
-                     - https://web.archive.org/web/20070430175615/http://brockthibodeaux.com/?page_id=22
-                     - 'You're a dead man . . . ' —Vegetarian-meal-ordering guy, 'Dumb & Dumber'
-                     - 'You like Huey Lewis & The News?' Willem Dafoe, 'American Psycho'
-    - Has social engineering, hardware hacking info/details
-        - i.e., https://web.archive.org/web/20041204045831/http://www.hlfallout.net/forums/
-        - i.e. 2, https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/IMG_5925.jpeg
-        - i.e. 3, https://share.google/aimode/U8u6GGmaCY18VpxDw
-        - i.e. 4, https://share.google/aimode/RCHmCMd0v86hR2Uin
-        - The Author honestly does not think local/global hacking operations such as Operation Olympic Games and the like are being taken seriously enough
-    - Occurred during same time as Bitcoin coding (January 2005), white paper authoring (February 2005)
-        - Proof of Identity Complementary Doc § 7, 15)
-            - https://github.com/satoshiofficial/Proof-of-IdentityComplementary/blob/main/notes.pdf)
-    - 16, 17yearolds can take the exam if s/he meets the criteria
-        - https://cert.eccouncil.org/certified-ethical-hacker.html#:~:text=The%20age%20requirement%20for%20attending,at%20least%2018%20years%20old.
 - Two (2) flickr photos containing Bitcoin/satoshi references from October 2006 updated with CC0 Public Domain Dedication licenses (https://certificate.creativecommons.org/public-domain/)
     - https://www.flickr.com/photos/satoshinakamoto/278903828/
     - https://www.flickr.com/photos/satoshinakamoto/278906327/
 - https://www.btcpolicy.org/articles/digital-identity-in-the-us-is-broken
 - Need to verify LinkedIn profile
-- Need to updated personal certificates on LinkedIn
+- Need to update personal certificates on LinkedIn
     - Copy from Orcid
 - Set up Google Ads account for BRVC
     - Account # 783-898-2815 (brockthib@gmail.com)
