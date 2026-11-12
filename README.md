@@ -19,6 +19,8 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 12 November
 
+- Saved Goodreads Personal Profile to Way Back Machine
+    - https://web.archive.org/web/20261112224045/https://www.goodreads.com/user/show/3007679-brock-angelle-thibodeaux
 - Saved Goodreads Author Profile to Way Back Machine
     - https://web.archive.org/web/20261112223633/https://www.goodreads.com/author/show/51034034.Satoshi_Nakamoto
 
