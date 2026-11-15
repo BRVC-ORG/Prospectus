@@ -17,6 +17,11 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 
 # Month of November 2026
 
+14 November
+
+- Saved Bitcoin whitepaper Goodreads page to Way Back Machine
+    - https://web.archive.org/web/20261115050625/https://www.goodreads.com/book/show/59000412-bitcoin
+
 12 November
 
 - Saved Goodreads Personal Profile to Way Back Machine
