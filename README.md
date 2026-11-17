@@ -6,7 +6,7 @@ Date began: 20 June 2024
 
 Completion date: March 2026 (for Investor(s)/Pitch Deck purpose(s))
 
-Continuation date: March 2026 - Current (for Bitcoin Community interfacing, support and transparency (or as much is possible within an incredibly-forward- and also -backward-thinking new market such as Digital Assets and its accompanying Classical Futures-type, perma-burgeoning-seeming applications and variations on web1 and web2 thinking and the like; and its very promising Decentralized Internet, dubbed web3, the not-oft-mentioned but arguably-necessary web4 space(s) and the exciting, ever-promising future where web5 exists and only goes on to continue Decentralized Finance's pioneering ethos. Meant mainly for GitHub internal note(s)/BRVC-ORG purposes; and also to not have The Author finding his way back to the good life: simple, fun USENET groups where fun, easy-breesy discourse goes to boogie, full-tilt))
+Continuation date: March 2026 - November 2026 (for Bitcoin Community interfacing, support and transparency (or as much is possible within an incredibly-forward- and also -backward-thinking new market such as Digital Assets and its accompanying Classical Futures-type, perma-burgeoning-seeming applications and variations on web1 and web2 thinking and the like; and its very promising Decentralized Internet, dubbed web3, the not-oft-mentioned but arguably-necessary web4 space(s) and the exciting, ever-promising future where web5 exists and only goes on to continue Decentralized Finance's pioneering ethos. Meant mainly for GitHub internal note(s)/BRVC-ORG purposes; and also to not have The Author finding his way back to the good life: simple, fun USENET groups where fun, easy-breesy discourse goes to boogie, full-tilt))
 
 For entries before August 2025, see the BRVC Prospectus PDF (created from the original Google Doc) attached above in the list of files at the top of this website; or,'if on iOS/Android visit, the Code section of this repository or visit the URL prospectus.brvc-org.com
 
@@ -16,6 +16,14 @@ https://docs.google.com/document/d/17HNGVvbst7U0mqlk-bI3Eh1wsxz46iUWUreLnyiK8zE/
 # Prospectus continued from aforementioned Google Doc/PDF:
 
 # Month of November 2026
+
+16 November
+
+- Saved Last.fm profile from 2005-6 to Way Back Machine, successfully recovered login credentials
+    - https://web.archive.org/web/20260000000000*/https://www.last.fm/user/Smirnoff171
+    - Will use, among other examples, in '2•9•20' essay
+        - More info TBD
+
 
 14 November
 
